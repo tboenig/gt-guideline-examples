@@ -22,6 +22,22 @@
    </dl>
    <h2>Sources</h2>
    <h3>The volume of transcriptions:</h3>
+   <table id="table_id">
+      <thead>
+         <tr>
+            <th>TextLine</th>
+            <th>Page</th>
+            <th>TxtRegion</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>100</td>
+            <td>2</td>
+            <td>12</td>
+         </tr>
+      </tbody>
+   </table>
    <div id="transcriptions">
       <h3>List of transcriptions</h3>
       <div>
