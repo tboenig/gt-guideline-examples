@@ -33,6 +33,12 @@
                 box-shadow: inset 0px 1px 1px 0 #e2b603 !important;
             }
             
+            table {
+                border-spacing: 0;
+                border-radius: 6px;
+                border-collapse: separate;
+                border: solid silver 1.5px;
+            }
             
             #table_id.hide1 tr > *:nth-child(1) {
             display: none;
