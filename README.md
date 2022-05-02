@@ -13,8 +13,12 @@
       <dd>data_structure_and_text</dd>
       <dt id="License">License:</dt>
       <dd>CC-BY-SA 4.0</dd>
-      <dt id="Guidelines">Transcription guidelines:</dt>
+      <dt id="Guidelines">Transcription Guidelines:</dt>
       <dd>The OCR-D-GT guidelines were used. (https://ocr-d.de/de/gt-guidelines/trans/)</dd>
+      <dt id="Project">Project:</dt>
+      <dd>OCR-D</dd>
+      <dt id="Project-URL">Project-URL:</dt>
+      <dd>https://ocr-d.de/</dd>
    </dl>
    <h2>Sources</h2>
    <h3>The volume of transcriptions:</h3>
