@@ -31,6 +31,55 @@
 </div>
 <div class="metadata">
    <h2>Total view</h2>
+   <table class="noStyle">
+      <tr>
+         <td>💡 You can show and hide individual columns of the table.<br/>Click the corresponding button.
+                                <details>
+               <summary>Legend</summary>
+               <dl class="grid">
+                  <dt>TextLine</dt>
+                  <dd>TextLine</dd>
+                  <dt>Page</dt>
+                  <dd>Page</dd>
+                  <dt>TxtRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
+                        target="_blank">TextRegion</a>
+                  </dd>
+               </dl>
+            </details>
+         </td>
+         <td>
+            <div class="grid-container">
+               <button onclick="document.getElementById('table_id').classList.toggle('hide1')">
+                  <i>TextLine</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide2')">
+                  <i>Page</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
+                  <i>TxtRegion</i>
+               </button>
+            </div>
+         </td>
+      </tr>
+   </table>
+   <table id="table_id">
+      <thead>
+         <tr>
+            <th>TextLine</th>
+            <th>Page</th>
+            <th>TxtRegion</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>100</td>
+            <td>2</td>
+            <td>12</td>
+         </tr>
+      </tbody>
+   </table>
 </div>
 <div>
    <h2>Details</h2>
