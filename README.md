@@ -4,7 +4,7 @@
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
-      <dd>deu lat</dd>
+      <dd>deu, lat</dd>
       <dt id="Format">Format:</dt>
       <dd>Page-XML</dd>
       <dt id="Time">Time:</dt>
