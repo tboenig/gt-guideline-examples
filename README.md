@@ -69,9 +69,6 @@
       </div>
    </div>
    <div id="extent">
-      <h2>Extent</h2>
-      <p>
-                                In this section they can insert additional information, instructions or notes.
-                            </p>
+      
    </div>
 </div>
