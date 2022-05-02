@@ -42,9 +42,7 @@
       <h3>List of transcriptions</h3>
       <div>
          <table class="noStyle"/>
-         <table id="table_id"
-                class="display"
-                style="border-spacing: 0; border-radius: 6px; border-collapse: separate; border: solid silver 1.5px;">
+         <table id="table_id" class="display">
             <thead>
                <tr>
                   <th>document</th>
