@@ -1,0 +1,24 @@
+schema: https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
+title: gt-guideline-examples
+url: https://github.com/tboenig/gt-guideline-examples
+authors: []
+description: gt-guideline-examples lists and collects examples of the OCR-D-GT guidelines.
+language:
+  - deu
+  - lat
+script:
+  - Latn
+  - Goth
+script-type: print
+time:
+  notBefore: '1500'
+  notAfter: '1900'
+hands:
+  count: '1'
+  level: levelmix
+license:
+  - name: CC-BY-SA 4.0
+    url: https://creativecommons.org/licenses/by-sa/4.0/
+gtTyp: data_structure_and_text
+format: Page-XML
+transcription-guidelines: The OCR-D-GT guidelines were used. (https://ocr-d.de/de/gt-guidelines/trans/)
