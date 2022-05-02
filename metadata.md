@@ -7,7 +7,7 @@
       <dt>Description:</dt>
       <dd>gt-guideline-examples lists and collects examples of the OCR-D-GT guidelines.</dd>
       <dt>Language:</dt>
-      <dd>deu lat</dd>
+      <dd>deu, lat</dd>
       <dt>Format:</dt>
       <dd>Page-XML</dd>
       <dt>Time:</dt>
