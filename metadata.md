@@ -23,9 +23,9 @@
          <dt>License:</dt>
          <dd>CC-BY-SA 4.0</dd>
          <dt>Project:</dt>
-         <dd/>
+         <dd>OCR-D</dd>
          <dt>Project-URL:</dt>
-         <dd/>
+         <dd>https://ocr-d.de/</dd>
       </dl>
    </details>
 </div>
