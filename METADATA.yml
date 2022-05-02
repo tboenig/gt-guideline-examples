@@ -1,8 +1,16 @@
 schema: https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
 title: gt-guideline-examples
 url: https://github.com/tboenig/gt-guideline-examples
-authors: []
+authors:
+  - name: Boenig
+    surname: Matthias
+    roles:
+      - transcriber
+      - aligner
+      - project-manager
 description: gt-guideline-examples lists and collects examples of the OCR-D-GT guidelines.
+project-name: OCR-D
+project-website: https://ocr-d.de/
 language:
   - deu
   - lat
