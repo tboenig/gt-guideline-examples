@@ -94,7 +94,8 @@ jobs:
     
     - name: Index-link
       run: |
-         ln -s ghout/metadata.md ghout/index.md
+         cd ghout
+         ln -s metadata.md index.md
     
     
     - name: generate README
