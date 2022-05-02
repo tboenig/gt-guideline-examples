@@ -47,40 +47,15 @@
                <tr>
                   <th>document</th>
                   <th>TxtRegion</th>
-                  <th>ImgRegion</th>
-                  <th>LineDrawRegion</th>
-                  <th>GraphRegion</th>
-                  <th>TabRegion</th>
-                  <th>ChartRegion</th>
-                  <th>SepRegion</th>
-                  <th>MathRegion</th>
-                  <th>ChemRegion</th>
-                  <th>MusicRegion</th>
-                  <th>AdRegion</th>
-                  <th>NoiseRegion</th>
-                  <th>UnkownRegion</th>
-                  <th>CustomRegion</th>
                   <th>TextLine</th>
                   <th>Page</th>
                </tr>
             </thead>
             <tbody>
-               <tr>
+                                    elect="if (@isbn!='') then ('(ISBN: ', @isbn, ')') else() (: in diesem Fall nichts ausgeben :)"/&gt;
+                                    <tr>
                   <th>erasmus_testamenti_1523</th>
                   <td>12</td>
-                  <td>0</td>
-                  <td>0</td>
-                  <td>0</td>
-                  <td>0</td>
-                  <td>0</td>
-                  <td>0</td>
-                  <td>0</td>
-                  <td>0</td>
-                  <td>0</td>
-                  <td>0</td>
-                  <td>0</td>
-                  <td>0</td>
-                  <td>0</td>
                   <td>100</td>
                   <td>2</td>
                </tr>
