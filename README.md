@@ -52,8 +52,7 @@
                </tr>
             </thead>
             <tbody>
-                                    elect="if (@isbn!='') then ('(ISBN: ', @isbn, ')') else() (: in diesem Fall nichts ausgeben :)"/&gt;
-                                    <tr>
+               <tr>
                   <th>erasmus_testamenti_1523</th>
                   <td>12</td>
                   <td>100</td>
