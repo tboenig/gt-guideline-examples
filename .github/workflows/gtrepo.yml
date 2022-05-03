@@ -16,16 +16,9 @@ jobs:
     permissions:
      actions: write
      checks: write
-     contents: write
-     
-     id-token: write
-     
-     
-     
-     pages: write
-     
-     repository-projects: write
-     security-events: write
+     # contents: write
+     # pages: write
+     # security-events: write
      
      
     steps:
