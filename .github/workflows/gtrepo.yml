@@ -16,7 +16,7 @@ jobs:
     permissions:
      actions: write
      checks: write
-     # contents: write
+     contents: write
      # pages: write
      # security-events: write
      
