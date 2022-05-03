@@ -1,17 +1,19 @@
 name: gtrepo
-on:  
+on:
   push:
     branches:
       - main
+    
   workflow_dispatch:
+  
 
-permissions: 
-  read-all|write-all
+
   
 jobs:
   cli:
     name: makeBagit
     runs-on: ubuntu-latest
+    permissions: read-all|write-all  
     steps:
      
     - name: Git checkout
