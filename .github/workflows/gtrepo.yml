@@ -14,7 +14,7 @@ jobs:
     name: makeBagit
     runs-on: ubuntu-latest
     permissions:
-     actions: write
+     # actions: write
      checks: write
      contents: write
      # pages: write
