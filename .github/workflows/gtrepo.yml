@@ -13,9 +13,9 @@ jobs:
   cli:
     name: makeBagit
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: write
+    permissions: read-all|write-all
+     # issues: write
+     # pull-requests: write
     steps:
      
     - name: Git checkout
