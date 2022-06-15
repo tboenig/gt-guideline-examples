@@ -7,7 +7,7 @@ authors:
       - transcriber
       - aligner
       - project-manager
-description: gt-guideline-examples lists and collects examples of the OCR-D-GT guidelines.
+description: GT-Guideline-Examples lists and collects examples of the OCR-D-GT guidelines.
 project-name: OCR-D
 project-website: https://ocr-d.de/
 language:
