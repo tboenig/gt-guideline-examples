@@ -1,6 +1,6 @@
 <div>
    <h1 id="title">gt-guideline-examples</h1>
-   <p id="paragraph">gt-guideline-examples lists and collects examples of the OCR-D-GT guidelines.</p>
+   <p id="paragraph">GT-Guideline-Examples lists and collects examples of the OCR-D-GT guidelines.</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
@@ -53,7 +53,7 @@
             </thead>
             <tbody>
                <tr>
-                  <th>erasmus_testamenti_1523</th>
+                  <td>erasmus_testamenti_1523</td>
                   <td>12</td>
                   <td>100</td>
                   <td>2</td>
