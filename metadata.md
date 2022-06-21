@@ -46,6 +46,26 @@
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
                         target="_blank">TextRegion</a>
                   </dd>
+                  <dt>ImgRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyBildbereiche.html"
+                        target="_blank">ImageRegion</a>
+                  </dd>
+                  <dt>GraphRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyGraphik.html"
+                        target="_blank">GraphicRegion</a>
+                  </dd>
+                  <dt>SepRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lySeparatoren.html"
+                        target="_blank">SeperatorRegion</a>
+                  </dd>
+                  <dt>AdRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyWerbung.html"
+                        target="_blank">AdvertRegion</a>
+                  </dd>
                </dl>
             </details>
          </td>
@@ -60,6 +80,18 @@
                <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
                   <i>TxtRegion</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide4')">
+                  <i>ImgRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
+                  <i>GraphRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide9')">
+                  <i>SepRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide13')">
+                  <i>AdRegion</i>
+               </button>
             </div>
          </td>
       </tr>
@@ -70,13 +102,21 @@
             <th>TextLine</th>
             <th>Page</th>
             <th>TxtRegion</th>
+            <th>ImgRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
+            <th>AdRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>100</td>
+            <td>374</td>
+            <td>3</td>
+            <td>115</td>
+            <td>4</td>
             <td>2</td>
-            <td>12</td>
+            <td>53</td>
+            <td>1</td>
          </tr>
       </tbody>
    </table>
