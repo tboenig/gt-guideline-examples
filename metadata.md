@@ -110,13 +110,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>922</td>
-            <td>5</td>
-            <td>321</td>
-            <td>12</td>
-            <td>6</td>
-            <td>159</td>
-            <td>3</td>
+            <td>648</td>
+            <td>4</td>
+            <td>218</td>
+            <td>8</td>
+            <td>4</td>
+            <td>106</td>
+            <td>2</td>
          </tr>
       </tbody>
    </table>

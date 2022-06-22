@@ -194,19 +194,19 @@
          <tbody>
             <tr>
                <th>werbung</th>
-               <td>822</td>
-               <td>3</td>
-               <td>309</td>
-               <td>12</td>
+               <td>548</td>
+               <td>2</td>
+               <td>206</td>
+               <td>8</td>
                <td>0</td>
-               <td>6</td>
-               <td>0</td>
-               <td>0</td>
-               <td>159</td>
+               <td>4</td>
                <td>0</td>
                <td>0</td>
+               <td>106</td>
                <td>0</td>
-               <td>3</td>
+               <td>0</td>
+               <td>0</td>
+               <td>2</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -237,27 +237,6 @@
                               <th>CustomRegion</th>
                            </tr>
                         </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/werbung/GT-PAGE/werbung.xml">werbung.xml</a>
-                           </td>
-                           <td>274</td>
-                           <td>1</td>
-                           <td>103</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>53</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
                         <tr>
                            <td>
                               <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/werbung/GT-PAGE/werbung_unordered.xml">werbung_unordered.xml</a>
