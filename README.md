@@ -36,13 +36,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>374</td>
+            <td>922</td>
+            <td>5</td>
+            <td>321</td>
+            <td>12</td>
+            <td>6</td>
+            <td>159</td>
             <td>3</td>
-            <td>115</td>
-            <td>4</td>
-            <td>2</td>
-            <td>53</td>
-            <td>1</td>
          </tr>
       </tbody>
    </table>
@@ -65,20 +65,20 @@
             </thead>
             <tbody>
                <tr>
+                  <td>werbung</td>
+                  <td>309</td>
+                  <td>12</td>
+                  <td>6</td>
+                  <td>159</td>
+                  <td>3</td>
+                  <td>822</td>
+                  <td>3</td>
+               </tr>
+               <tr>
                   <td>erasmus_testamenti_1523</td>
                   <td>12</td>
                   <td>100</td>
                   <td>2</td>
-               </tr>
-               <tr>
-                  <td>werbung</td>
-                  <td>103</td>
-                  <td>4</td>
-                  <td>2</td>
-                  <td>53</td>
-                  <td>1</td>
-                  <td>274</td>
-                  <td>1</td>
                </tr>
             </tbody>
          </table>
