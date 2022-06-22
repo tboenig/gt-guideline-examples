@@ -193,6 +193,118 @@
          </thead>
          <tbody>
             <tr>
+               <th>werbung</th>
+               <td>822</td>
+               <td>3</td>
+               <td>309</td>
+               <td>12</td>
+               <td>0</td>
+               <td>6</td>
+               <td>0</td>
+               <td>0</td>
+               <td>159</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>3</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/werbung/GT-PAGE/werbung.xml">werbung.xml</a>
+                           </td>
+                           <td>274</td>
+                           <td>1</td>
+                           <td>103</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>53</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/werbung/GT-PAGE/werbung_unordered.xml">werbung_unordered.xml</a>
+                           </td>
+                           <td>274</td>
+                           <td>1</td>
+                           <td>103</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>53</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/werbung/GT-PAGE/werbung_ordered.xml">werbung_ordered.xml</a>
+                           </td>
+                           <td>274</td>
+                           <td>1</td>
+                           <td>103</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>53</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
                <th>erasmus_testamenti_1523</th>
                <td>100</td>
                <td>2</td>
@@ -275,76 +387,6 @@
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>werbung</th>
-               <td>274</td>
-               <td>1</td>
-               <td>103</td>
-               <td>4</td>
-               <td>0</td>
-               <td>2</td>
-               <td>0</td>
-               <td>0</td>
-               <td>53</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>1</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/werbung/GT-PAGE/werbung.xml">werbung.xml</a>
-                           </td>
-                           <td>274</td>
-                           <td>1</td>
-                           <td>103</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>53</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>

@@ -134,6 +134,63 @@
    </thead>
    <tbody>
       <tr>
+         <th>werbung.xml</th>
+         <td>103</td>
+         <td>4</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>53</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>274</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>werbung_unordered.xml</th>
+         <td>103</td>
+         <td>4</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>53</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>274</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>werbung_ordered.xml</th>
+         <td>103</td>
+         <td>4</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>53</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>274</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>erasmus_testamenti_1523_0013.xml</th>
          <td>6</td>
          <td>0</td>
@@ -169,25 +226,6 @@
          <td>0</td>
          <td>0</td>
          <td>46</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>werbung.xml</th>
-         <td>103</td>
-         <td>4</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>53</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>274</td>
          <td>1</td>
       </tr>
    </tbody>
