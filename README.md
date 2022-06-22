@@ -28,13 +28,21 @@
             <th>TextLine</th>
             <th>Page</th>
             <th>TxtRegion</th>
+            <th>ImgRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
+            <th>AdRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>100</td>
+            <td>374</td>
+            <td>3</td>
+            <td>115</td>
+            <td>4</td>
             <td>2</td>
-            <td>12</td>
+            <td>53</td>
+            <td>1</td>
          </tr>
       </tbody>
    </table>
@@ -47,6 +55,10 @@
                <tr>
                   <th>document</th>
                   <th>TxtRegion</th>
+                  <th>ImgRegion</th>
+                  <th>GraphRegion</th>
+                  <th>SepRegion</th>
+                  <th>AdRegion</th>
                   <th>TextLine</th>
                   <th>Page</th>
                </tr>
@@ -57,6 +69,16 @@
                   <td>12</td>
                   <td>100</td>
                   <td>2</td>
+               </tr>
+               <tr>
+                  <td>werbung</td>
+                  <td>103</td>
+                  <td>4</td>
+                  <td>2</td>
+                  <td>53</td>
+                  <td>1</td>
+                  <td>274</td>
+                  <td>1</td>
                </tr>
             </tbody>
          </table>
