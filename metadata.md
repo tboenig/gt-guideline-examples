@@ -5,7 +5,7 @@
       <dt>Name:</dt>
       <dd>gt-guideline-examples</dd>
       <dt>Description:</dt>
-      <dd>GT-Guideline-Examples lists and collects examples of the OCR-D-GT guidelines.</dd>
+      <dd>GT-Guideline-Examples lists and collects examples of the OCR-D-GT Guidelines. The examples are intended to illustrate the possibilities and the use of the Page-XML format against the background of the guidelines.</dd>
       <dt>Language:</dt>
       <dd>deu, lat</dd>
       <dt>Format:</dt>
