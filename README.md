@@ -1,6 +1,6 @@
 <div>
    <h1 id="title">gt-guideline-examples</h1>
-   <p id="paragraph">GT-Guideline-Examples lists and collects examples of the OCR-D-GT guidelines.</p>
+   <p id="paragraph">GT-Guideline-Examples lists and collects examples of the OCR-D-GT Guidelines. The examples are intended to illustrate the possibilities and the use of the Page-XML format against the background of the guidelines.</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
