@@ -49,16 +49,24 @@
    <div id="transcriptions">
       <h3>List of transcriptions</h3>
       <div>
-         <table class="noStyle"/>
          <table id="table_id" class="display">
             <thead>
                <tr>
                   <th>document</th>
                   <th>TxtRegion</th>
                   <th>ImgRegion</th>
+                  <th>LineDrawRegion</th>
                   <th>GraphRegion</th>
+                  <th>TabRegion</th>
+                  <th>ChartRegion</th>
                   <th>SepRegion</th>
+                  <th>MathRegion</th>
+                  <th>ChemRegion</th>
+                  <th>MusicRegion</th>
                   <th>AdRegion</th>
+                  <th>NoiseRegion</th>
+                  <th>UnkownRegion</th>
+                  <th>CustomRegion</th>
                   <th>TextLine</th>
                   <th>Page</th>
                </tr>
@@ -68,15 +76,37 @@
                   <td>werbung</td>
                   <td>206</td>
                   <td>8</td>
+                  <td/>
                   <td>4</td>
+                  <td/>
+                  <td/>
                   <td>106</td>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>548</td>
                   <td>2</td>
                </tr>
                <tr>
                   <td>erasmus_testamenti_1523</td>
                   <td>12</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>100</td>
                   <td>2</td>
                </tr>
