@@ -4,7 +4,7 @@
 	<Creator>OCR-D</Creator>
 	<Created>2016-09-22T13:25:46</Created>
 	<LastChange>2022-06-22T10:37:16</LastChange></Metadata>
-	<Page imageFilename="erasmus_testamenti_1523_0012.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1267" imageHeight="1960" type="content" primaryLanguage="Latin" primaryScript="Latf - Latin (Fraktur variant)">
+	<Page  imageFilename="erasmus_testamenti_1523_0012.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1267" imageHeight="1960" type="content" primaryLanguage="Latin" primaryScript="Latf - Latin (Fraktur variant)">
 	<AlternativeImage filename="erasmus_testamenti_1523_0012_B.tif"/>
 	<AlternativeImage filename="erasmus_testamenti_1523_0012_b.tif"/>
 	<Border>
@@ -24,7 +24,8 @@
 	<Relation id="rel1" type="join">
 	<SourceRegionRef regionRef="DropCapital_1508844327992_16"/>
 	<TargetRegionRef regionRef="TextRegion_1488298810055_149"/></Relation></Relations>
-	<TextRegion id="DropCapital_1508844327992_16" type="drop-capital">
+<	
+<TextRegion id="DropCapital_1508844327992_16" type="drop-capital" >
 	<Coords points="370,511 797,502 800,913 378,912"/>
 	<TextLine id="l0">
 	<Coords points="797,506 797,516 791,516 791,621 792,621 792,629 793,629 793,642 794,642 794,686 795,686 795,715 796,715 796,731 797,731 797,739 798,739 798,776 799,776 799,912 800,912 800,913 799,913 799,912 378,912 378,861 377,861 377,811 376,811 376,761 375,761 375,711 374,711 374,661 373,661 373,611 372,611 372,517 371,517 371,511 370,511 418,511 418,510 465,510 465,509 513,509 513,508 623,508 623,507 629,507 629,506"/>
