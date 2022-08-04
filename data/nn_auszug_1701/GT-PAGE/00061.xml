@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-erasmus_testamenti_1523_0012">
-	
+	<Metadata>
+	<Creator>NCSR LayoutAnalysis, v0.2 (16_02_2015)
+NCSR LineSegmentationTool, v0.3.0 (17_3_2015)</Creator>
+	<Created>2016-12-09T10:32:43</Created>
+	<LastChange>2022-08-04T17:39:06</LastChange></Metadata>
 	<Page imageFilename="00061.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="2548" imageHeight="2860" type="content">
 	<AlternativeImage filename="00061_B.tif"/>
 	<ReadingOrder>
@@ -1650,7 +1654,7 @@ lichen Majeſtät und dero Königlichen Hauſe zur Wiederkunfft aus
 Preuſſen Glück und alles hohe Wohlergehen.
 ſecuturorum, ut precamur, genetrix futura eſt.</Unicode></TextEquiv></TextRegion>
 	<SeparatorRegion id="Separator_1487939052016_87" custom="readingOrder {index:3;}">
-	<Coords points="1773,2173 265,2173 265,2154 1773,2154"/></SeparatorRegion>
+	<Coords points="1769,2154 1769,2159 1764,2159 1764,2160 1761,2160 1761,2161 1760,2161 1760,2162 1709,2162 1709,2163 1544,2163 1544,2173 1523,2173 1523,2172 1133,2172 1133,2173 1053,2173 1053,2172 1051,2172 1051,2171 898,2171 898,2170 694,2170 694,2173 688,2173 688,2172 411,2172 411,2173 402,2173 402,2172 352,2172 352,2171 294,2171 294,2170 292,2170 292,2169 291,2169 291,2161 292,2161 292,2160 299,2160 299,2159 374,2159 374,2158 390,2158 390,2156 391,2156 391,2155 577,2155 577,2154"/></SeparatorRegion>
 	<TextRegion id="TextRegion_1487939026064_85" custom="readingOrder {index:4;}" type="paragraph">
 	<Coords points="279,2391 281,2215 1771,2215 1760,2372"/>
 	<TextLine id="line_1481619757410_43" custom="readingOrder {index:0;}">
