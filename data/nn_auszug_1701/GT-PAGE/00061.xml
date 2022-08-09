@@ -15,7 +15,7 @@
 	<RegionRefIndexed regionRef="r46" index="3"/>
 	<RegionRefIndexed regionRef="r49" index="4"/>
 	<RegionRefIndexed regionRef="region_1481620295547_69" index="5"/></OrderedGroup></ReadingOrder>
-	<TextStyle fontFamily="Fraktur, Antiqua"/>
+	<TextStyle fontFamily="fraktur, antiqua"/>
 	<SeparatorRegion id="Separator_1487939052016_87" custom="readingOrder {index:3;}">
 	<Coords points="1769,2154 1769,2159 1764,2159 1764,2160 1761,2160 1761,2161 1760,2161 1760,2162 1709,2162 1709,2163 1544,2163 1544,2173 1523,2173 1523,2172 1133,2172 1133,2173 1053,2173 1053,2172 1051,2172 1051,2171 898,2171 898,2170 694,2170 694,2173 688,2173 688,2172 411,2172 411,2173 402,2173 402,2172 352,2172 352,2171 294,2171 294,2170 292,2170 292,2169 291,2169 291,2161 292,2161 292,2160 299,2160 299,2159 374,2159 374,2158 390,2158 390,2156 391,2156 391,2155 577,2155 577,2154"/></SeparatorRegion>
 	<TextRegion id="region_1481620295547_69" custom="readingOrder {index:5;} structure {type:page-number;}" type="signature-mark" primaryLanguage="German" production="printed">
