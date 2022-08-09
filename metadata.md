@@ -110,9 +110,9 @@
       </thead>
       <tbody>
          <tr>
-            <td>686</td>
-            <td>5</td>
-            <td>224</td>
+            <td>723</td>
+            <td>6</td>
+            <td>230</td>
             <td>8</td>
             <td>4</td>
             <td>107</td>

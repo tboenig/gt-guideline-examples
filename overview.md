@@ -134,7 +134,7 @@
    </thead>
    <tbody>
       <tr>
-         <th>00061.xml</th>
+         <th>nn_auszug_1701_061.xml</th>
          <td>6</td>
          <td>0</td>
          <td>0</td>
@@ -188,6 +188,25 @@
          <td>0</td>
          <td>0</td>
          <td>274</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>zesen_assenat_1670_0382.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>37</td>
          <td>1</td>
       </tr>
       <tr>
