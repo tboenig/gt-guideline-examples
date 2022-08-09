@@ -194,9 +194,9 @@
          <tbody>
             <tr>
                <th>nn_auszug_1701</th>
-               <td>121</td>
-               <td>3</td>
-               <td>16</td>
+               <td>38</td>
+               <td>1</td>
+               <td>6</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -237,48 +237,6 @@
                               <th>CustomRegion</th>
                            </tr>
                         </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/nn_auszug_1701/GT-PAGE/00027.xml">00027.xml</a>
-                           </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/nn_auszug_1701/GT-PAGE/00108.xml">00108.xml</a>
-                           </td>
-                           <td>40</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
                         <tr>
                            <td>
                               <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/nn_auszug_1701/GT-PAGE/00061.xml">00061.xml</a>
