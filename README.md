@@ -36,12 +36,12 @@
       </thead>
       <tbody>
          <tr>
-            <td>648</td>
-            <td>4</td>
-            <td>218</td>
+            <td>769</td>
+            <td>7</td>
+            <td>234</td>
             <td>8</td>
             <td>4</td>
-            <td>106</td>
+            <td>107</td>
             <td>2</td>
          </tr>
       </tbody>
@@ -72,6 +72,25 @@
                </tr>
             </thead>
             <tbody>
+               <tr>
+                  <td>nn_auszug_1701</td>
+                  <td>16</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>121</td>
+                  <td>3</td>
+               </tr>
                <tr>
                   <td>werbung</td>
                   <td>206</td>
