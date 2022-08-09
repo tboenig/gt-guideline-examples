@@ -24,7 +24,6 @@
 	<Relation id="rel1" type="join">
 	<SourceRegionRef regionRef="DropCapital_1508844327992_16"/>
 	<TargetRegionRef regionRef="TextRegion_1488298810055_149"/></Relation></Relations>
-<	
 <TextRegion id="DropCapital_1508844327992_16" type="drop-capital" >
 	<Coords points="370,511 797,502 800,913 378,912"/>
 	<TextLine id="l0">
