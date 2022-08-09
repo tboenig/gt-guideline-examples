@@ -36,9 +36,9 @@
       </thead>
       <tbody>
          <tr>
-            <td>686</td>
-            <td>5</td>
-            <td>224</td>
+            <td>723</td>
+            <td>6</td>
+            <td>230</td>
             <td>8</td>
             <td>4</td>
             <td>107</td>
@@ -109,6 +109,25 @@
                   <td/>
                   <td>548</td>
                   <td>2</td>
+               </tr>
+               <tr>
+                  <td>zesen_assenat_1670</td>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>37</td>
+                  <td>1</td>
                </tr>
                <tr>
                   <td>erasmus_testamenti_1523</td>
