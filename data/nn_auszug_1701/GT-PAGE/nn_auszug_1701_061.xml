@@ -4,9 +4,8 @@
 	<Creator>OCR-D</Creator>
 	<Created>2016-12-09T08:32:43</Created>
 	<LastChange>2022-08-09T08:31:58</LastChange></Metadata>
-	<Page imageFilename="00061.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="2548" imageHeight="2860" type="content" primaryLanguage="German" secondaryLanguage="Latin">
-	<AlternativeImage filename="00061_B.tif"/>
-	<AlternativeImage filename="00061_b.tif"/>
+	<Page imageFilename="nn_auszug_1701_061.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="2548" imageHeight="2860" type="content" primaryLanguage="German" secondaryLanguage="Latin">
+		<AlternativeImage filename="nn_auszug_1701_061.tif"/>
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="r41" index="0"/>
