@@ -122,7 +122,7 @@ jobs:
     - name: generate METS Volume File
       run: |
         java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
-        output=METSvolume repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
+        output=METSvolume repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER \
         -s:scripts/gt-overview_metadata.xsl -o:ocrdzip_out/mets.xml
       shell: bash  
   
