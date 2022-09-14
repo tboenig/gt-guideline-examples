@@ -117,6 +117,14 @@ jobs:
         output=README repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
         -s:scripts/gt-overview_metadata.xsl -o:README.md
       shell: bash
+      
+      
+    - name: generate METS Volume File
+      run: |
+        java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
+        output=METS repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
+        -s:scripts/gt-overview_metadata.xsl -o:ghout/mets.xml
+      shell: bash  
   
          
    # Bagit
