@@ -73,25 +73,6 @@
             </thead>
             <tbody>
                <tr>
-                  <td>nn_auszug_1701</td>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>38</td>
-                  <td>1</td>
-               </tr>
-               <tr>
                   <td>werbung</td>
                   <td>206</td>
                   <td>8</td>
@@ -111,13 +92,14 @@
                   <td>2</td>
                </tr>
                <tr>
-                  <td>zesen_assenat_1670</td>
+                  <td>nn_auszug_1701</td>
                   <td>6</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -125,8 +107,7 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>37</td>
+                  <td>38</td>
                   <td>1</td>
                </tr>
                <tr>
@@ -147,6 +128,25 @@
                   <td/>
                   <td>100</td>
                   <td>2</td>
+               </tr>
+               <tr>
+                  <td>zesen_assenat_1670</td>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>37</td>
+                  <td>1</td>
                </tr>
             </tbody>
          </table>
