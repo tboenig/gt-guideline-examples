@@ -123,7 +123,7 @@ jobs:
       run: |
         java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
         output=METSvolume repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
-        -s:scripts/gt-overview_metadata.xsl -o:ghout/mets.xml
+        -s:scripts/gt-overview_metadata.xsl -o:ocrdzip_out/mets.xml
       shell: bash  
   
          
