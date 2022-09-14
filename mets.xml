@@ -1,28 +1,4 @@
-
-                        cd /home/runner/work/gt-guideline-examples/gt-guideline-examples/data/nn_auszug_1701/
-                        wget nn_auszug_1701_061.tif -O GT-PAGE/nn_auszug_1701_061.tif
-                        ocrd workspace add -g P0003 -G DEFAULT -i DEFAULT_0003 -m image/ GT-PAGE/nn_auszug_1701_061.tif
-                        ocrd workspace add -g P0003 -G OCR-D-IMG -i OCR-D-IMG_0003 -m image/ GT-PAGE/nn_auszug_1701_061.tif
-                        ocrd workspace add -g P0003 -G OCR-D-GT-SEG-PAGE -i OCR-D-GT-SEG-PAGE_0003 -m text/xml /home/runner/work/gt-guideline-examples/gt-guideline-examples/data/nn_auszug_1701/GT-PAGE/nn_auszug_1701_061.xml
-                        ocrd workspace add -g P0003 -G OCR-D-GT-SEG-BLOCK -i OCR-D-GT-SEG-BLOCK_0003 -m text/xml /home/runner/work/gt-guideline-examples/gt-guideline-examples/data/nn_auszug_1701/GT-PAGE/nn_auszug_1701_061.xml
-                        cd /home/runner/work/gt-guideline-examples/gt-guideline-examples/data/erasmus_testamenti_1523/
-                        wget erasmus_testamenti_1523_0012.tif -O GT-PAGE/erasmus_testamenti_1523_0012.tif
-                        ocrd workspace add -g P0004 -G DEFAULT -i DEFAULT_0004 -m image/ GT-PAGE/erasmus_testamenti_1523_0012.tif
-                        ocrd workspace add -g P0004 -G OCR-D-IMG -i OCR-D-IMG_0004 -m image/ GT-PAGE/erasmus_testamenti_1523_0012.tif
-                        ocrd workspace add -g P0004 -G OCR-D-GT-SEG-PAGE -i OCR-D-GT-SEG-PAGE_0004 -m text/xml /home/runner/work/gt-guideline-examples/gt-guideline-examples/data/erasmus_testamenti_1523/GT-PAGE/erasmus_testamenti_1523_0012.xml
-                        ocrd workspace add -g P0004 -G OCR-D-GT-SEG-BLOCK -i OCR-D-GT-SEG-BLOCK_0004 -m text/xml /home/runner/work/gt-guideline-examples/gt-guideline-examples/data/erasmus_testamenti_1523/GT-PAGE/erasmus_testamenti_1523_0012.xml
-                        cd /home/runner/work/gt-guideline-examples/gt-guideline-examples/data/erasmus_testamenti_1523/
-                        wget erasmus_testamenti_1523_0013.tif -O GT-PAGE/erasmus_testamenti_1523_0013.tif
-                        ocrd workspace add -g P0005 -G DEFAULT -i DEFAULT_0005 -m image/ GT-PAGE/erasmus_testamenti_1523_0013.tif
-                        ocrd workspace add -g P0005 -G OCR-D-IMG -i OCR-D-IMG_0005 -m image/ GT-PAGE/erasmus_testamenti_1523_0013.tif
-                        ocrd workspace add -g P0005 -G OCR-D-GT-SEG-PAGE -i OCR-D-GT-SEG-PAGE_0005 -m text/xml /home/runner/work/gt-guideline-examples/gt-guideline-examples/data/erasmus_testamenti_1523/GT-PAGE/erasmus_testamenti_1523_0013.xml
-                        ocrd workspace add -g P0005 -G OCR-D-GT-SEG-BLOCK -i OCR-D-GT-SEG-BLOCK_0005 -m text/xml /home/runner/work/gt-guideline-examples/gt-guideline-examples/data/erasmus_testamenti_1523/GT-PAGE/erasmus_testamenti_1523_0013.xml
-                        cd /home/runner/work/gt-guideline-examples/gt-guideline-examples/data/zesen_assenat_1670/
-                        wget zesen_assenat_1670_0382.tif -O GT-PAGE/zesen_assenat_1670_0382.tif
-                        ocrd workspace add -g P0006 -G DEFAULT -i DEFAULT_0006 -m image/ GT-PAGE/zesen_assenat_1670_0382.tif
-                        ocrd workspace add -g P0006 -G OCR-D-IMG -i OCR-D-IMG_0006 -m image/ GT-PAGE/zesen_assenat_1670_0382.tif
-                        ocrd workspace add -g P0006 -G OCR-D-GT-SEG-PAGE -i OCR-D-GT-SEG-PAGE_0006 -m text/xml /home/runner/work/gt-guideline-examples/gt-guideline-examples/data/zesen_assenat_1670/GT-PAGE/zesen_assenat_1670_0382.xml
-                        ocrd workspace add -g P0006 -G OCR-D-GT-SEG-BLOCK -i OCR-D-GT-SEG-BLOCK_0006 -m text/xml /home/runner/work/gt-guideline-examples/gt-guideline-examples/data/zesen_assenat_1670/GT-PAGE/zesen_assenat_1670_0382.xml<mets:mets xmlns:dv="http://dfg-viewer.de/"
+<mets:mets xmlns:dv="http://dfg-viewer.de/"
            xmlns:mets="http://www.loc.gov/METS/"
            xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -46,7 +22,13 @@
                   <mods:role>
                      <mods:roleTerm authority="ocrdrelator"
                                     type="code"
-                                    valueURI="https://raw.githubusercontent.com/tboenig/gt-metadata/master/schema/2022-03-15/schema.json">transcriber aligner project-manager</mods:roleTerm>
+                                    valueURI="https://raw.githubusercontent.com/tboenig/gt-metadata/master/schema/2022-03-15/schema.json">transcriber</mods:roleTerm>
+                     <mods:roleTerm authority="ocrdrelator"
+                                    type="code"
+                                    valueURI="https://raw.githubusercontent.com/tboenig/gt-metadata/master/schema/2022-03-15/schema.json">aligner</mods:roleTerm>
+                     <mods:roleTerm authority="ocrdrelator"
+                                    type="code"
+                                    valueURI="https://raw.githubusercontent.com/tboenig/gt-metadata/master/schema/2022-03-15/schema.json">project-manager</mods:roleTerm>
                   </mods:role>
                </mods:name>
                <mods:genre>Ground Truth</mods:genre>
