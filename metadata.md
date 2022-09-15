@@ -34,7 +34,7 @@
    <p>You can download the complete data here. 
                         They contain a zip file in which the components of the collection are also in zip files.
                         Metadata for the complete collection and the components are in METS format.</p>
-   <a href="https://github.com/tboenig/gt-guideline-examples/releases/download/v/bagitDump-v.zip">download</a>
+   <a href="https://github.com/tboenig/gt-guideline-examples/releases/download/v85/bagitDump-v85.zip">download</a>
 </div>
 <div class="metadata">
    <h2>Total view</h2>
