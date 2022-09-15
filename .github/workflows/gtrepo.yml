@@ -54,7 +54,7 @@ jobs:
         unzip download
                       
     - name: make ocrdzip_out
-      run: mkdir bagitDump-v$GITHUB_RUN_NUMBER
+      run: mkdir ocrdzip_out
       
     - name: make gh-pages_out
       run: mkdir ghout
@@ -123,7 +123,7 @@ jobs:
       run: |
         java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
         output=METSvolume repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER \
-        -s:scripts/gt-overview_metadata.xsl -o:bagitDump-v$GITHUB_RUN_NUMBER/mets.xml
+        -s:scripts/gt-overview_metadata.xsl -o:ocrdzip_out/mets.xml
       shell: bash  
   
          
@@ -144,7 +144,7 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
          filename: site.zip
-         path: bagitDump-v$GITHUB_RUN_NUMBER
+         path: ocrdzip_out
       
     
     - name: Create GitHub release
