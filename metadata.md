@@ -36,7 +36,7 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt-guideline-examples/releases/download/v90/bagitDump-v90.zip">Current version download: bagitDump-v90.zip</a>
+         <a href="https://github.com/tboenig/gt-guideline-examples/releases/download/v91/bagitDump-v91.zip">Current version download: bagitDump-v91.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt-guideline-examples/releases">Version archive</a>
