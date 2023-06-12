@@ -79,7 +79,7 @@ jobs:
     - name: transform METADATA and make GT-Overview
       run: |
         java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
-        output=METADATA repoBase=$GITHUB_REF_NAME repoName=$GITHUB_REPOSITORY \
+        output=METADATA repoBase=$GITHUB_REF_NAME repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER \
         -s:scripts/gt-overview_metadata.xsl -o:ghout/metadata.md
       shell: bash
 
@@ -144,7 +144,7 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
          filename: site.zip
-         path: 'ocrdzip_out'
+         path: ocrdzip_out
       
     
     - name: Create GitHub release
