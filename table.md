@@ -193,20 +193,20 @@
          </thead>
          <tbody>
             <tr>
-               <th>werbung</th>
-               <td>548</td>
-               <td>2</td>
-               <td>206</td>
-               <td>8</td>
-               <td>0</td>
-               <td>4</td>
-               <td>0</td>
-               <td>0</td>
-               <td>106</td>
+               <th>zesen_assenat_1670</th>
+               <td>37</td>
+               <td>1</td>
+               <td>6</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
-               <td>2</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -239,42 +239,91 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/werbung/GT-PAGE/werbung_ordered.xml">werbung_ordered.xml</a>
+                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/v1.0.0/data/zesen_assenat_1670/GT-PAGE/zesen_assenat_1670_0382.xml">zesen_assenat_1670_0382.xml</a>
                            </td>
-                           <td>274</td>
+                           <td>37</td>
                            <td>1</td>
-                           <td>103</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>53</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                         </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>table</th>
+               <td>43</td>
+               <td>1</td>
+               <td>29</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/werbung/GT-PAGE/werbung_unordered.xml">werbung_unordered.xml</a>
+                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/v1.0.0/data/table/GT-PAGE/buecher_volkswirtschaft_1893_0257_800px.xml">buecher_volkswirtschaft_1893_0257_800px.xml</a>
                            </td>
-                           <td>274</td>
+                           <td>43</td>
                            <td>1</td>
-                           <td>103</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>53</td>
+                           <td>29</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -330,7 +379,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/nn_auszug_1701/GT-PAGE/nn_auszug_1701_061.xml">nn_auszug_1701_061.xml</a>
+                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/v1.0.0/data/nn_auszug_1701/GT-PAGE/nn_auszug_1701_061.xml">nn_auszug_1701_061.xml</a>
                            </td>
                            <td>38</td>
                            <td>1</td>
@@ -400,9 +449,9 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/erasmus_testamenti_1523/GT-PAGE/erasmus_testamenti_1523_0012.xml">erasmus_testamenti_1523_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/v1.0.0/data/erasmus_testamenti_1523/GT-PAGE/erasmus_testamenti_1523_0013.xml">erasmus_testamenti_1523_0013.xml</a>
                            </td>
-                           <td>46</td>
+                           <td>54</td>
                            <td>1</td>
                            <td>6</td>
                            <td>0</td>
@@ -421,9 +470,9 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/erasmus_testamenti_1523/GT-PAGE/erasmus_testamenti_1523_0013.xml">erasmus_testamenti_1523_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/v1.0.0/data/erasmus_testamenti_1523/GT-PAGE/erasmus_testamenti_1523_0012.xml">erasmus_testamenti_1523_0012.xml</a>
                            </td>
-                           <td>54</td>
+                           <td>46</td>
                            <td>1</td>
                            <td>6</td>
                            <td>0</td>
@@ -445,20 +494,20 @@
                </td>
             </tr>
             <tr>
-               <th>zesen_assenat_1670</th>
-               <td>37</td>
-               <td>1</td>
-               <td>6</td>
+               <th>werbung</th>
+               <td>548</td>
+               <td>2</td>
+               <td>206</td>
+               <td>8</td>
+               <td>0</td>
+               <td>4</td>
+               <td>0</td>
+               <td>0</td>
+               <td>106</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
+               <td>2</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -491,21 +540,42 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/main/data/zesen_assenat_1670/GT-PAGE/zesen_assenat_1670_0382.xml">zesen_assenat_1670_0382.xml</a>
+                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/v1.0.0/data/werbung/GT-PAGE/werbung_unordered.xml">werbung_unordered.xml</a>
                            </td>
-                           <td>37</td>
+                           <td>274</td>
                            <td>1</td>
-                           <td>6</td>
+                           <td>103</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>53</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-guideline-examples/blob/v1.0.0/data/werbung/GT-PAGE/werbung_ordered.xml">werbung_ordered.xml</a>
+                           </td>
+                           <td>274</td>
+                           <td>1</td>
+                           <td>103</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>53</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>

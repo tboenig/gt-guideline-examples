@@ -1,0 +1,73 @@
+{
+  "title": "gt-guideline-examples",
+  "url": "https://github.com/tboenig/gt-guideline-examples",
+  "authors": [
+    {
+      "name": "Boenig",
+      "surname": "Matthias",
+      "roles": [
+        "transcriber",
+        "aligner",
+        "project-manager"
+      ]
+    }
+  ],
+  "description": "GT-Guideline-Examples lists and collects examples of the OCR-D-GT Guidelines. The examples are intended to illustrate the possibilities and the use of the Page-XML format against the background of the guidelines.",
+  "project-name": "OCR-D",
+  "project-website": "https://ocr-d.de/",
+  "language": [
+    "deu",
+    "lat"
+  ],
+  "script": [
+    "Latn",
+    "Goth"
+  ],
+  "script-type": "print",
+  "time": {
+    "notBefore": "1500",
+    "notAfter": "1900"
+  },
+  "hands": {
+    "count": "1",
+    "level": "levelmix"
+  },
+  "license": [
+    {
+      "name": "CC-BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "gtTyp": "data_structure_and_text",
+  "format": "Page-XML",
+  "transcription-guidelines": "The OCR-D-GT guidelines were used. (https://ocr-d.de/de/gt-guidelines/trans/)",
+  "volume": {
+    "TxtRegion": "259",
+    "ImgRegion": "8",
+    "GraphRegion": "4",
+    "SepRegion": "107",
+    "AdRegion": "2",
+    "TextLine": "766",
+    "Page": "7"
+  },
+  "labelling": [
+    "content-type/corpus",
+    "platform/platform-independent",
+    "content-encoding/structured",
+    "activityDomain/computing/visual/analysisRecognition/text",
+    "activityDomain/computing/visual/analysisRecognition/ocr",
+    "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
+    "contentOfInterest/visual/text",
+    "contentOfInterest/visual/graphical",
+    "contentOfInterest/visual/graphical/separator",
+    "contentOfInterest/visual/image",
+    "granularity/physical/document-related/page",
+    "granularity/physical/document-related/text-line",
+    "granularity/physical/document-related/word",
+    "granularity/logical/document-related/paragraph",
+    "data-attributes/document-related/structural/running-titles",
+    "data-attributes/document-related/visual/text/drop-caps",
+    "data-attributes/document-related/visual/text/font/typeface/blackletter",
+    "data-attributes/document-related/visual/text/font/typeface/antiqua"
+  ]
+}
