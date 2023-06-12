@@ -36,9 +36,9 @@
       </thead>
       <tbody>
          <tr>
-            <td>723</td>
-            <td>6</td>
-            <td>230</td>
+            <td>766</td>
+            <td>7</td>
+            <td>259</td>
             <td>8</td>
             <td>4</td>
             <td>107</td>
@@ -73,23 +73,42 @@
             </thead>
             <tbody>
                <tr>
-                  <td>werbung</td>
-                  <td>206</td>
-                  <td>8</td>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td>106</td>
+                  <td>zesen_assenat_1670</td>
+                  <td>6</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td>548</td>
-                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>37</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <td>table</td>
+                  <td>29</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>43</td>
+                  <td>1</td>
                </tr>
                <tr>
                   <td>nn_auszug_1701</td>
@@ -130,23 +149,23 @@
                   <td>2</td>
                </tr>
                <tr>
-                  <td>zesen_assenat_1670</td>
-                  <td>6</td>
+                  <td>werbung</td>
+                  <td>206</td>
+                  <td>8</td>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td>106</td>
                   <td/>
                   <td/>
                   <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>37</td>
-                  <td>1</td>
+                  <td>548</td>
+                  <td>2</td>
                </tr>
             </tbody>
          </table>
