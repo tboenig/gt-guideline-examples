@@ -153,8 +153,7 @@ Anſpruch; aber vielleicht iſt die Zahl 60 noch zu hoch für</Unicode></TextEqu
 	<Coords points="58,323 58,587 623,587 623,323"/>
 	<TextRegion id="r128" type="paragraph">
 	<Coords points="61,326 442,326 442,354 61,354"/>
-	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	</TextRegion>
 	<TextRegion id="r129" type="paragraph">
 	<Coords points="446,326 533,326 533,354 446,354"/>
 	<TextLine id="l153">
