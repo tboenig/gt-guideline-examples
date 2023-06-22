@@ -30,17 +30,19 @@
             <th>TxtRegion</th>
             <th>ImgRegion</th>
             <th>GraphRegion</th>
+            <th>TabRegion</th>
             <th>SepRegion</th>
             <th>AdRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>766</td>
-            <td>7</td>
-            <td>259</td>
+            <td>1028</td>
+            <td>13</td>
+            <td>429</td>
             <td>8</td>
             <td>4</td>
+            <td>3</td>
             <td>107</td>
             <td>2</td>
          </tr>
@@ -73,6 +75,44 @@
             </thead>
             <tbody>
                <tr>
+                  <td>werbung</td>
+                  <td>206</td>
+                  <td>8</td>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td>106</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>548</td>
+                  <td>2</td>
+               </tr>
+               <tr>
+                  <td>table</td>
+                  <td>199</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>305</td>
+                  <td>7</td>
+               </tr>
+               <tr>
                   <td>zesen_assenat_1670</td>
                   <td>6</td>
                   <td/>
@@ -89,25 +129,6 @@
                   <td/>
                   <td/>
                   <td>37</td>
-                  <td>1</td>
-               </tr>
-               <tr>
-                  <td>table</td>
-                  <td>29</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>43</td>
                   <td>1</td>
                </tr>
                <tr>
@@ -146,25 +167,6 @@
                   <td/>
                   <td/>
                   <td>100</td>
-                  <td>2</td>
-               </tr>
-               <tr>
-                  <td>werbung</td>
-                  <td>206</td>
-                  <td>8</td>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td>106</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>548</td>
                   <td>2</td>
                </tr>
             </tbody>
