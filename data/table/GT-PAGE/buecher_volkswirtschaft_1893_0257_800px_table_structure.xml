@@ -2,41 +2,40 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-buecher_volkswirtschaft_1893_0257_800px">
 	<Metadata>
 	<Creator>OCR-D</Creator>
-	<Created>2023-06-12T13:20:47</Created>
-	<LastChange>2023-06-22T09:20:51</LastChange></Metadata>
+	<Created>2023-06-12T11:20:47</Created>
+	<LastChange>2023-06-22T13:55:36</LastChange></Metadata>
 	<Page imageFilename="buecher_volkswirtschaft_1893_0257_800px.jpg" imageWidth="800" imageHeight="1276">
 	<AlternativeImage filename="buecher_volkswirtschaft_1893_0257_800px_B.tif"/>
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089">
 	<RegionRefIndexed regionRef="r0" index="0"/>
 	<RegionRefIndexed regionRef="r1" index="1"/>
-	<RegionRefIndexed regionRef="r127" index="2"/>
-	<RegionRefIndexed regionRef="r128" index="3"/>
-	<RegionRefIndexed regionRef="r129" index="4"/>
-	<RegionRefIndexed regionRef="r130" index="5"/>
-	<RegionRefIndexed regionRef="r131" index="6"/>
-	<RegionRefIndexed regionRef="r132" index="7"/>
-	<RegionRefIndexed regionRef="r133" index="8"/>
-	<RegionRefIndexed regionRef="r134" index="9"/>
-	<RegionRefIndexed regionRef="r135" index="10"/>
-	<RegionRefIndexed regionRef="r136" index="11"/>
-	<RegionRefIndexed regionRef="r137" index="12"/>
-	<RegionRefIndexed regionRef="r138" index="13"/>
-	<RegionRefIndexed regionRef="r139" index="14"/>
-	<RegionRefIndexed regionRef="r140" index="15"/>
-	<RegionRefIndexed regionRef="r141" index="16"/>
-	<RegionRefIndexed regionRef="r142" index="17"/>
-	<RegionRefIndexed regionRef="r143" index="18"/>
-	<RegionRefIndexed regionRef="r144" index="19"/>
-	<RegionRefIndexed regionRef="r145" index="20"/>
-	<RegionRefIndexed regionRef="r146" index="21"/>
-	<RegionRefIndexed regionRef="r147" index="22"/>
-	<RegionRefIndexed regionRef="r148" index="23"/>
-	<RegionRefIndexed regionRef="r149" index="24"/>
-	<RegionRefIndexed regionRef="r150" index="25"/>
-	<RegionRefIndexed regionRef="r151" index="26"/>
-	<RegionRefIndexed regionRef="r8" index="27"/>
-	<RegionRefIndexed regionRef="r13" index="28"/></OrderedGroup></ReadingOrder>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r5" index="4"/>
+	<RegionRefIndexed regionRef="r6" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r11" index="9"/>
+	<RegionRefIndexed regionRef="r12" index="10"/>
+	<RegionRefIndexed regionRef="r14" index="11"/>
+	<RegionRefIndexed regionRef="r15" index="12"/>
+	<RegionRefIndexed regionRef="r16" index="13"/>
+	<RegionRefIndexed regionRef="r17" index="14"/>
+	<RegionRefIndexed regionRef="r18" index="15"/>
+	<RegionRefIndexed regionRef="r19" index="16"/>
+	<RegionRefIndexed regionRef="r20" index="17"/>
+	<RegionRefIndexed regionRef="r21" index="18"/>
+	<RegionRefIndexed regionRef="r22" index="19"/>
+	<RegionRefIndexed regionRef="r23" index="20"/>
+	<RegionRefIndexed regionRef="r24" index="21"/>
+	<RegionRefIndexed regionRef="r25" index="22"/>
+	<RegionRefIndexed regionRef="r26" index="23"/>
+	<RegionRefIndexed regionRef="r27" index="24"/>
+	<RegionRefIndexed regionRef="r28" index="25"/>
+	<RegionRefIndexed regionRef="r8" index="26"/>
+	<RegionRefIndexed regionRef="r13" index="27"/></OrderedGroup></ReadingOrder>
 	<TextRegion id="r0" type="page-number">
 	<Coords points="343,152 343,153 349,153 349,160 350,160 350,161 396,161 396,162 398,162 398,168 350,168 350,170 349,170 349,171 348,171 348,172 346,172 346,173 311,173 311,168 264,168 264,167 263,167 263,161 311,161 311,154 312,154 312,153 314,153 314,152"/>
 	<TextLine id="l6">
@@ -149,240 +148,244 @@ und XV. Jahrhundert noch faſt jeder Bürger Landwirt-
 oder auf den Dorffluren der Umgegend. Ebenſo nahm
 der ſtädtiſche Dienſt weit mehr als 60 Perſonen in
 Anſpruch; aber vielleicht iſt die Zahl 60 noch zu hoch für</Unicode></TextEquiv></TextRegion>
-	<TableRegion id="r127" rows="8" columns="3">
-	<Coords points="58,323 58,587 623,587 623,323"/>
-	<TextRegion id="r128" type="paragraph">
-	<Coords points="61,326 442,326 442,354 61,354"/>
+	<TableRegion id="r2" rows="8" columns="3">
+	<Coords points="50,328 50,588 639,588 639,328"/>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="53,331 444,331 444,359 53,359"/>
 	<Roles>
 	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l29">
+	<Coords points="53,331 444,331 444,359 53,359"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r129" type="paragraph">
-	<Coords points="446,326 533,326 533,354 446,354"/>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="448,331 535,331 535,359 448,359"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l153">
-	<Coords points="484,337 484,341 519,341 519,342 520,342 520,348 524,348 524,349 525,349 525,350 524,350 524,351 482,351 482,354 456,354 456,350 452,350 452,341 451,341 451,340 452,340 452,338 453,338 453,337"/>
+	<TableCellRole rowIndex="0" columnIndex="1"/></Roles>
+	<TextLine id="l30">
+	<Coords points="448,331 535,331 535,359 448,359"/>
 	<TextEquiv>
 	<Unicode>Perſonen.</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>Perſonen.</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r130" type="paragraph">
-	<Coords points="537,326 621,326 621,354 537,354"/>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="539,331 637,331 637,359 539,359"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l154">
-	<Coords points="603,337 603,338 604,338 604,341 605,341 605,342 606,342 606,348 609,348 609,349 610,349 610,350 609,350 609,351 581,351 581,353 580,353 580,354 578,354 578,353 550,353 550,349 546,349 546,340 545,340 545,339 546,339 546,337"/>
+	<TableCellRole rowIndex="0" columnIndex="2"/></Roles>
+	<TextLine id="l31">
+	<Coords points="539,331 637,331 637,359 539,359"/>
 	<TextEquiv>
 	<Unicode>Prozent.</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>Prozent.</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r131" type="paragraph">
-	<Coords points="61,358 442,358 442,387 61,387"/>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="53,363 444,363 444,391 53,391"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l152">
-	<Coords points="89,363 89,364 209,364 209,365 210,365 210,370 323,370 323,368 324,368 324,367 325,367 325,366 328,366 328,365 343,365 343,371 375,371 375,373 376,373 376,381 375,381 375,382 332,382 332,383 271,383 271,384 270,384 270,385 269,385 269,386 268,386 268,387 265,387 265,386 263,386 263,381 120,381 120,380 79,380 79,379 77,379 77,378 76,378 76,364 77,364 77,363"/>
+	<TableCellRole rowIndex="1" columnIndex="0"/></Roles>
+	<TextLine id="l32">
+	<Coords points="53,363 444,363 444,391 53,391"/>
 	<TextEquiv>
 	<Unicode>die Gewerbe im engeren Sinne</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>die Gewerbe im engeren Sinne</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r132" type="paragraph">
-	<Coords points="446,358 533,358 533,387 446,387"/>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="448,363 535,363 535,391 448,391"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l155">
-	<Coords points="506,367 506,368 508,368 508,370 509,370 509,373 510,373 510,375 509,375 509,378 508,378 508,380 507,380 507,381 482,381 482,382 471,382 471,381 466,381 466,368 469,368 469,367"/>
+	<TableCellRole rowIndex="1" columnIndex="1"/></Roles>
+	<TextLine id="l33">
+	<Coords points="448,363 535,363 535,391 448,391"/>
 	<TextEquiv>
 	<Unicode>1050</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>1050</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r133" type="paragraph">
-	<Coords points="537,358 621,358 621,387 537,387"/>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="539,363 637,363 637,391 539,391"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l156">
-	<Coords points="595,367 595,368 597,368 597,369 598,369 598,377 599,377 598,377 598,379 597,379 597,381 595,381 595,382 585,382 585,383 584,383 584,385 582,385 582,382 563,382 563,381 560,381 560,379 559,379 559,378 560,378 560,367"/>
+	<TableCellRole rowIndex="1" columnIndex="2"/></Roles>
+	<TextLine id="l34">
+	<Coords points="539,363 637,363 637,391 539,391"/>
 	<TextEquiv>
 	<Unicode>58,3</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>58,3</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r134" type="paragraph">
-	<Coords points="61,391 442,391 442,420 61,420"/>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="53,395 444,395 444,424 53,424"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l157">
-	<Coords points="173,396 173,397 211,397 211,398 212,398 212,403 234,403 234,404 235,404 235,413 234,413 234,414 142,414 142,418 142,417 141,417 141,414 126,414 126,413 79,413 79,412 77,412 77,411 76,411 76,398 77,398 77,396"/>
+	<TableCellRole rowIndex="2" columnIndex="0"/></Roles>
+	<TextLine id="l35">
+	<Coords points="53,395 444,395 444,424 53,424"/>
 	<TextEquiv>
 	<Unicode>die Urproduktion</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>die Urproduktion</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r135" type="paragraph">
-	<Coords points="446,391 533,391 533,420 446,420"/>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="448,395 535,395 535,424 448,424"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l158">
-	<Coords points="507,400 507,401 508,401 508,402 509,402 509,403 510,403 510,405 511,405 511,407 510,407 510,411 509,411 509,413 508,413 508,414 506,414 506,415 481,415 481,414 480,414 480,413 478,413 478,411 479,411 479,401 483,401 483,400"/>
+	<TableCellRole rowIndex="2" columnIndex="1"/></Roles>
+	<TextLine id="l36">
+	<Coords points="448,395 535,395 535,424 448,424"/>
 	<TextEquiv>
 	<Unicode>330</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>330</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r136" type="paragraph">
-	<Coords points="537,391 621,391 621,420 537,420"/>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="539,395 637,395 637,424 539,424"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l159">
-	<Coords points="596,400 596,401 597,401 597,402 598,402 598,409 599,409 599,412 598,412 598,413 597,413 597,414 595,414 595,415 586,415 586,416 585,416 585,417 584,417 584,418 583,418 583,415 562,415 562,414 561,414 561,401 564,401 564,400"/>
+	<TableCellRole rowIndex="2" columnIndex="2"/></Roles>
+	<TextLine id="l37">
+	<Coords points="539,395 637,395 637,424 539,424"/>
 	<TextEquiv>
 	<Unicode>18,3</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>18,3</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r137" type="paragraph">
-	<Coords points="61,424 442,424 442,453 61,453"/>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="53,428 444,428 444,456 53,456"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l160">
-	<Coords points="119,429 119,430 296,430 296,431 408,431 408,432 411,432 411,433 415,433 415,437 418,437 418,447 416,447 416,448 408,448 408,453 408,452 321,452 321,448 218,448 218,450 217,450 217,451 216,451 216,450 86,450 86,451 84,451 84,452 83,452 83,451 81,451 81,450 80,450 80,446 77,446 77,445 76,445 76,442 78,442 78,434 79,434 79,432 80,432 80,431 81,431 81,430 118,430 118,429"/>
+	<TableCellRole rowIndex="3" columnIndex="0"/></Roles>
+	<TextLine id="l38">
+	<Coords points="53,428 444,428 444,456 53,456"/>
 	<TextEquiv>
 	<Unicode>Handel, Verkehr und Gaſtwirtſchaft</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>Handel, Verkehr und Gaſtwirtſchaft</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r138" type="paragraph">
-	<Coords points="446,424 533,424 533,453 446,453"/>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="448,428 535,428 535,456 448,456"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l161">
-	<Coords points="506,433 506,434 508,434 508,436 509,436 509,438 510,438 510,443 509,443 509,445 508,445 508,446 507,446 507,447 492,447 492,448 492,447 477,447 477,435 478,435 478,434 479,434 479,433"/>
+	<TableCellRole rowIndex="3" columnIndex="1"/></Roles>
+	<TextLine id="l39">
+	<Coords points="448,428 535,428 535,456 448,456"/>
 	<TextEquiv>
 	<Unicode>230</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>230</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r139" type="paragraph">
-	<Coords points="537,424 621,424 621,453 537,453"/>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="539,428 637,428 637,456 539,456"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l162">
-	<Coords points="595,433 595,434 597,434 597,435 598,435 598,446 599,446 599,448 598,448 598,450 597,450 597,451 595,451 595,452 562,452 562,451 561,451 562,451 562,434 564,434 564,433"/>
+	<TableCellRole rowIndex="3" columnIndex="2"/></Roles>
+	<TextLine id="l40">
+	<Coords points="539,428 637,428 637,456 539,456"/>
 	<TextEquiv>
 	<Unicode>12,8</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>12,8</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r140" type="paragraph">
-	<Coords points="61,457 442,457 442,486 61,486"/>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="53,460 444,460 444,488 53,488"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l164">
-	<Coords points="166,462 166,463 325,463 325,464 335,464 335,466 350,466 350,470 352,470 352,479 351,479 351,480 342,480 342,481 342,480 235,480 235,481 234,481 234,484 234,480 216,480 216,479 109,479 109,480 108,480 108,482 107,482 107,483 106,483 106,484 105,484 105,480 83,480 83,479 76,479 76,476 77,476 77,464 78,464 78,463 80,463 80,462"/>
+	<TableCellRole rowIndex="4" columnIndex="0"/></Roles>
+	<TextLine id="l41">
+	<Coords points="53,460 444,460 444,488 53,488"/>
 	<TextEquiv>
 	<Unicode>Lohnarbeit unbeſtimmter Art</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>Lohnarbeit unbeſtimmter Art</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r141" type="paragraph">
-	<Coords points="446,457 533,457 533,486 446,486"/>
+	<TextRegion id="r18" type="paragraph">
+	<Coords points="448,460 535,460 535,488 448,488"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l165">
-	<Coords points="506,466 506,467 507,467 507,468 508,468 508,469 509,469 509,472 510,472 510,475 509,475 509,478 508,478 508,479 507,479 507,480 505,480 505,481 504,481 504,480 491,480 491,479 490,479 490,478 489,478 489,475 488,475 488,473 489,473 489,470 490,470 490,468 491,468 491,467 493,467 493,466"/>
+	<TableCellRole rowIndex="4" columnIndex="1"/></Roles>
+	<TextLine id="l42">
+	<Coords points="448,460 535,460 535,488 448,488"/>
 	<TextEquiv>
 	<Unicode>60</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>60</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r142" type="paragraph">
-	<Coords points="537,457 621,457 621,486 537,486"/>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="539,460 637,460 637,488 539,488"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l166">
-	<Coords points="595,466 595,467 597,467 597,469 598,469 598,479 597,479 597,480 595,480 595,481 585,481 585,482 584,482 584,483 583,483 583,484 583,481 574,481 574,480 573,480 573,479 572,479 572,478 571,478 572,478 572,468 573,468 573,467 575,467 575,466"/>
+	<TableCellRole rowIndex="4" columnIndex="2"/></Roles>
+	<TextLine id="l43">
+	<Coords points="539,460 637,460 637,488 539,488"/>
 	<TextEquiv>
 	<Unicode>3,3</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>3,3</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r143" type="paragraph">
-	<Coords points="61,490 442,490 442,519 61,519"/>
+	<TextRegion id="r20" type="paragraph">
+	<Coords points="53,492 444,492 444,521 53,521"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l167">
-	<Coords points="228,496 228,497 257,497 257,498 258,498 258,499 261,499 261,503 263,503 263,512 262,512 262,513 255,513 255,517 113,517 113,518 113,517 106,517 106,513 83,513 83,512 81,512 81,511 77,511 77,507 78,507 78,499 79,499 79,497 80,497 80,496"/>
+	<TableCellRole rowIndex="5" columnIndex="0"/></Roles>
+	<TextLine id="l44">
+	<Coords points="53,492 444,492 444,521 53,521"/>
 	<TextEquiv>
 	<Unicode>Oeffentlichen Dienſt</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>Oeffentlichen Dienſt</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r144" type="paragraph">
-	<Coords points="446,490 533,490 533,519 446,519"/>
+	<TextRegion id="r21" type="paragraph">
+	<Coords points="448,492 535,492 535,521 448,521"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l168">
-	<Coords points="506,499 506,500 507,500 507,501 508,501 508,502 509,502 509,503 510,503 510,509 509,509 509,511 508,511 508,512 507,512 507,513 506,513 506,514 492,514 492,513 491,513 491,512 490,512 490,510 489,510 489,504 490,504 490,501 491,501 491,500 493,500 493,499"/>
+	<TableCellRole rowIndex="5" columnIndex="1"/></Roles>
+	<TextLine id="l45">
+	<Coords points="448,492 535,492 535,521 448,521"/>
 	<TextEquiv>
 	<Unicode>60</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>60</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r145" type="paragraph">
-	<Coords points="537,490 621,490 621,519 537,519"/>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="539,492 637,492 637,521 539,521"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l169">
-	<Coords points="595,499 595,500 597,500 597,501 598,501 598,509 599,509 599,510 598,510 598,512 597,512 597,513 595,513 595,514 585,514 585,516 584,516 584,517 583,517 583,514 574,514 574,513 573,513 573,512 572,512 572,501 573,501 573,500 574,500 574,499"/>
+	<TableCellRole rowIndex="5" columnIndex="2"/></Roles>
+	<TextLine id="l46">
+	<Coords points="539,492 637,492 637,521 539,521"/>
 	<TextEquiv>
 	<Unicode>3,3</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>3,3</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r146" type="paragraph">
-	<Coords points="61,523 442,523 442,552 61,552"/>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="53,525 444,525 444,553 53,553"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l170">
-	<Coords points="83,528 83,529 176,529 176,530 216,530 216,531 251,531 251,532 252,532 252,535 271,535 271,536 273,536 273,545 274,545 274,546 214,546 214,549 213,549 213,551 213,546 82,546 82,545 76,545 76,543 77,543 77,532 78,532 78,530 79,530 79,529 81,529 81,528"/>
+	<TableCellRole rowIndex="6" columnIndex="0"/></Roles>
+	<TextLine id="l47">
+	<Coords points="53,525 444,525 444,553 53,553"/>
 	<TextEquiv>
 	<Unicode>Liberale Berufsarten</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>Liberale Berufsarten</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r147" type="paragraph">
-	<Coords points="446,523 533,523 533,552 446,552"/>
+	<TextRegion id="r24" type="paragraph">
+	<Coords points="448,525 535,525 535,553 448,553"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l171">
-	<Coords points="506,532 506,533 507,533 507,534 508,534 508,535 509,535 509,538 510,538 510,541 509,541 509,544 508,544 508,545 507,545 507,546 506,546 506,547 491,547 491,546 489,546 489,545 488,545 488,544 489,544 489,534 490,534 490,533 491,533 491,532"/>
+	<TableCellRole rowIndex="6" columnIndex="1"/></Roles>
+	<TextLine id="l48">
+	<Coords points="448,525 535,525 535,553 448,553"/>
 	<TextEquiv>
 	<Unicode>30</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>30</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r148" type="paragraph">
-	<Coords points="537,523 621,523 621,552 537,552"/>
+	<TextRegion id="r25" type="paragraph">
+	<Coords points="539,525 637,525 637,553 539,553"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l172">
-	<Coords points="577,533 598,533 598,534 597,534 597,535 596,535 596,539 595,539 595,542 594,542 594,547 573,547 573,533 577,533 577,532"/>
+	<TableCellRole rowIndex="6" columnIndex="2"/></Roles>
+	<TextLine id="l49">
+	<Coords points="539,525 637,525 637,553 539,553"/>
 	<TextEquiv>
 	<Unicode>1,7</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>1,7</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r149" type="paragraph">
-	<Coords points="61,556 442,556 442,585 61,585"/>
+	<TextRegion id="r26" type="paragraph">
+	<Coords points="53,557 444,557 444,586 53,586"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l174">
-	<Coords points="152,562 152,566 154,566 154,567 156,567 156,568 186,568 186,569 187,569 187,577 186,577 186,578 185,578 185,579 131,579 131,581 130,581 130,582 129,582 129,583 114,583 114,580 85,580 85,579 83,579 83,578 82,578 82,577 77,577 77,566 76,566 76,565 77,565 77,563 79,563 79,562"/>
+	<TableCellRole rowIndex="7" columnIndex="0"/></Roles>
+	<TextLine id="l50">
+	<Coords points="53,557 444,557 444,586 53,586"/>
 	<TextEquiv>
 	<Unicode>Verſchiedene</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>Verſchiedene</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r150" type="paragraph">
-	<Coords points="446,556 533,556 533,585 446,585"/>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="448,557 535,557 535,586 448,586"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l175">
-	<Coords points="506,565 506,566 508,566 508,567 509,567 509,568 510,568 510,571 511,571 511,575 510,575 510,577 509,577 509,578 508,578 508,579 507,579 507,580 492,580 492,576 489,576 489,574 490,574 490,573 491,573 491,571 492,571 492,570 494,570 494,566 495,566 495,565"/>
+	<TableCellRole rowIndex="7" columnIndex="1"/></Roles>
+	<TextLine id="l51">
+	<Coords points="448,557 535,557 535,586 448,586"/>
 	<TextEquiv>
 	<Unicode>40</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>40</Unicode></TextEquiv></TextRegion>
-	<TextRegion id="r151" type="paragraph">
-	<Coords points="537,556 621,556 621,585 537,585"/>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="539,557 637,557 637,586 539,586"/>
 	<Roles>
-	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
-	<TextLine id="l176">
-	<Coords points="595,566 597,566 597,567 598,567 598,574 599,574 599,577 598,577 598,579 596,579 596,580 586,580 586,581 585,581 585,582 584,582 584,583 583,583 583,580 572,580 572,568 573,568 573,567 574,567 574,566 595,566 595,565"/>
+	<TableCellRole rowIndex="7" columnIndex="2"/></Roles>
+	<TextLine id="l52">
+	<Coords points="539,557 637,557 637,586 539,586"/>
 	<TextEquiv>
 	<Unicode>2,3</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
