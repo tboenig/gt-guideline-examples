@@ -134,8 +134,50 @@
    </thead>
    <tbody>
       <tr>
-         <th>zesen_assenat_1670_0382.xml</th>
-         <td>6</td>
+         <th>werbung_unordered.xml</th>
+         <td>103</td>
+         <td>4</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>53</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>274</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>werbung_ordered.xml</th>
+         <td>103</td>
+         <td>4</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>53</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>274</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>buecher_volkswirtschaft_1893_0257_800px_full_table_structure.xml</th>
+         <td>28</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -145,11 +187,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>37</td>
+         <td>44</td>
          <td>1</td>
       </tr>
       <tr>
@@ -169,6 +207,120 @@
          <td>0</td>
          <td>0</td>
          <td>43</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>buecher_volkswirtschaft_1893_0257_800px_sparse_text.xml</th>
+         <td>29</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>43</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>buecher_volkswirtschaft_1893_0257_800px_table_structure.xml</th>
+         <td>28</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>44</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>buecher_volkswirtschaft_1893_0257_800px_sparse_text_variant1.xml</th>
+         <td>29</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>44</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>buecher_volkswirtschaft_1893_0257_800px_sparse_text_variant2.xml</th>
+         <td>28</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>44</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>buecher_volkswirtschaft_1893_0257_800px_table_detection.xml</th>
+         <td>28</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>43</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>zesen_assenat_1670_0382.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>37</td>
          <td>1</td>
       </tr>
       <tr>
@@ -226,44 +378,6 @@
          <td>0</td>
          <td>0</td>
          <td>46</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>werbung_unordered.xml</th>
-         <td>103</td>
-         <td>4</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>53</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>274</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>werbung_ordered.xml</th>
-         <td>103</td>
-         <td>4</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>53</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>274</td>
          <td>1</td>
       </tr>
    </tbody>

@@ -55,6 +55,19 @@ Related:
       </p>
    </details>
    <details>
+      <summary>activityDomain/computing/visual/analysisRecognition/tables</summary>
+      <p>
+         <strong>Description: </strong>The recognition of table/form structure and/or contents. 
+
+Examples:
+Stock exchange data in a newspaper,
+Filled in questionaire form
+
+Related:
+OCR
+Object / shape recognition (e.g. table separator detection)</p>
+   </details>
+   <details>
       <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
       <p>
          <strong>Description: </strong>Translation of any kind of depicted symbols to machine readable format
@@ -82,6 +95,13 @@ Corpus: a collection of written texts, especially the entire works of a particul
 Examples:
 A text corpus,
 An image database</p>
+   </details>
+   <details>
+      <summary>contentOfInterest/visual/composite/tables</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
    </details>
    <details>
       <summary>contentOfInterest/visual/graphical</summary>
@@ -172,7 +192,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt-guideline-examples/releases/download/v1.0.0/bagitDump-v93.zip">Current version download: bagitDump-v93.zip</a>
+         <a href="https://github.com/tboenig/gt-guideline-examples/releases/download/v1.0.1/bagitDump-v94.zip">Current version download: bagitDump-v94.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt-guideline-examples/releases">Version archive</a>
@@ -206,6 +226,11 @@ An image database</p>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lyGraphik.html"
                         target="_blank">GraphicRegion</a>
                   </dd>
+                  <dt>TabRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyTabellen.html"
+                        target="_blank">TableRegion</a>
+                  </dd>
                   <dt>SepRegion</dt>
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lySeparatoren.html"
@@ -236,6 +261,9 @@ An image database</p>
                <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
                   <i>GraphRegion</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide7')">
+                  <i>TabRegion</i>
+               </button>
                <button onclick="document.getElementById('table_id').classList.toggle('hide9')">
                   <i>SepRegion</i>
                </button>
@@ -254,17 +282,19 @@ An image database</p>
             <th>TxtRegion</th>
             <th>ImgRegion</th>
             <th>GraphRegion</th>
+            <th>TabRegion</th>
             <th>SepRegion</th>
             <th>AdRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>766</td>
-            <td>7</td>
-            <td>259</td>
+            <td>1028</td>
+            <td>13</td>
+            <td>429</td>
             <td>8</td>
             <td>4</td>
+            <td>3</td>
             <td>107</td>
             <td>2</td>
          </tr>

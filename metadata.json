@@ -42,13 +42,14 @@
   "format": "Page-XML",
   "transcription-guidelines": "The OCR-D-GT guidelines were used. (https://ocr-d.de/de/gt-guidelines/trans/)",
   "volume": {
-    "TxtRegion": "259",
+    "TxtRegion": "429",
     "ImgRegion": "8",
     "GraphRegion": "4",
+    "TabRegion": "3",
     "SepRegion": "107",
     "AdRegion": "2",
-    "TextLine": "766",
-    "Page": "7"
+    "TextLine": "1028",
+    "Page": "13"
   },
   "labelling": [
     "content-type/corpus",
@@ -56,11 +57,13 @@
     "content-encoding/structured",
     "activityDomain/computing/visual/analysisRecognition/text",
     "activityDomain/computing/visual/analysisRecognition/ocr",
+    "activityDomain/computing/visual/analysisRecognition/tables",
     "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
     "contentOfInterest/visual/text",
     "contentOfInterest/visual/graphical",
     "contentOfInterest/visual/graphical/separator",
     "contentOfInterest/visual/image",
+    "contentOfInterest/visual/composite/tables",
     "granularity/physical/document-related/page",
     "granularity/physical/document-related/text-line",
     "granularity/physical/document-related/word",
