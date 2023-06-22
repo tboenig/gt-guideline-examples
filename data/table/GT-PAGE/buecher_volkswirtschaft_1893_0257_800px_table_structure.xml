@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-buecher_volkswirtschaft_1893_0257_800px">
+	<Metadata>
+	<Creator>OCR-D</Creator>
+	<Created>2023-06-12T13:20:47</Created>
+	<LastChange>2023-06-22T09:20:51</LastChange></Metadata>
+	<Page imageFilename="buecher_volkswirtschaft_1893_0257_800px.jpg" imageWidth="800" imageHeight="1276">
+	<AlternativeImage filename="buecher_volkswirtschaft_1893_0257_800px_B.tif"/>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r127" index="2"/>
+	<RegionRefIndexed regionRef="r128" index="3"/>
+	<RegionRefIndexed regionRef="r129" index="4"/>
+	<RegionRefIndexed regionRef="r130" index="5"/>
+	<RegionRefIndexed regionRef="r131" index="6"/>
+	<RegionRefIndexed regionRef="r132" index="7"/>
+	<RegionRefIndexed regionRef="r133" index="8"/>
+	<RegionRefIndexed regionRef="r134" index="9"/>
+	<RegionRefIndexed regionRef="r135" index="10"/>
+	<RegionRefIndexed regionRef="r136" index="11"/>
+	<RegionRefIndexed regionRef="r137" index="12"/>
+	<RegionRefIndexed regionRef="r138" index="13"/>
+	<RegionRefIndexed regionRef="r139" index="14"/>
+	<RegionRefIndexed regionRef="r140" index="15"/>
+	<RegionRefIndexed regionRef="r141" index="16"/>
+	<RegionRefIndexed regionRef="r142" index="17"/>
+	<RegionRefIndexed regionRef="r143" index="18"/>
+	<RegionRefIndexed regionRef="r144" index="19"/>
+	<RegionRefIndexed regionRef="r145" index="20"/>
+	<RegionRefIndexed regionRef="r146" index="21"/>
+	<RegionRefIndexed regionRef="r147" index="22"/>
+	<RegionRefIndexed regionRef="r148" index="23"/>
+	<RegionRefIndexed regionRef="r149" index="24"/>
+	<RegionRefIndexed regionRef="r150" index="25"/>
+	<RegionRefIndexed regionRef="r151" index="26"/>
+	<RegionRefIndexed regionRef="r8" index="27"/>
+	<RegionRefIndexed regionRef="r13" index="28"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="343,152 343,153 349,153 349,160 350,160 350,161 396,161 396,162 398,162 398,168 350,168 350,170 349,170 349,171 348,171 348,172 346,172 346,173 311,173 311,168 264,168 264,167 263,167 263,161 311,161 311,154 312,154 312,153 314,153 314,152"/>
+	<TextLine id="l6">
+	<Coords points="340,155 340,156 346,156 346,163 347,163 347,164 393,164 393,165 395,165 347,165 347,167 346,167 346,168 345,168 345,169 343,169 343,170 314,170 314,165 267,165 267,164 266,164 314,164 314,157 315,157 315,156 317,156 317,155"/>
+	<TextEquiv>
+	<Unicode>— 235 —</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>— 235 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="129,196 129,197 589,197 589,201 591,201 591,202 593,202 593,203 613,203 613,205 614,205 614,252 613,252 613,282 610,282 610,283 606,283 606,285 605,285 605,286 563,286 563,287 508,287 508,289 507,289 507,290 506,290 506,291 505,291 505,292 496,292 496,291 410,291 410,290 126,290 126,308 125,308 125,311 124,311 124,322 117,322 117,318 106,318 106,317 53,317 53,316 51,316 51,315 49,315 49,240 48,240 48,233 49,233 49,231 50,231 50,230 51,230 51,229 96,229 96,200 97,200 97,198 98,198 98,197 100,197 100,196"/>
+	<TextLine id="l2">
+	<Coords points="126,199 126,200 239,200 239,201 343,201 343,200 586,200 586,204 588,204 588,205 590,205 590,206 610,206 610,208 611,208 609,208 609,216 608,216 608,217 527,217 527,218 526,218 526,220 525,220 525,221 407,221 407,222 325,222 325,221 324,221 324,220 230,220 230,216 107,216 107,215 105,215 105,214 101,214 101,205 100,205 100,203 99,203 100,203 100,201 101,201 101,200 103,200 103,199"/>
+	<TextEquiv>
+	<Unicode>Wir können hier unmöglich auf die Einzelheiten der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="151,232 151,233 300,233 300,234 537,234 537,233 545,233 545,237 546,237 546,239 608,239 608,240 610,240 610,249 611,249 610,249 610,250 584,250 584,255 463,255 463,256 461,256 461,255 321,255 321,256 319,256 319,255 203,255 203,254 102,254 102,249 58,249 58,248 57,248 57,247 52,247 52,237 51,237 51,236 52,236 52,234 53,234 53,233 54,233 54,232"/>
+	<TextEquiv>
+	<Unicode>Berufsgliederung näher eingehen. Nach großen Gruppen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="103,265 103,266 201,266 201,271 304,271 304,269 305,269 305,267 308,267 308,268 413,268 413,267 481,267 481,266 579,266 579,272 601,272 601,273 602,273 602,275 610,275 610,279 607,279 607,280 603,280 603,282 602,282 602,283 560,283 560,284 505,284 505,286 504,286 504,287 503,287 503,288 502,288 502,289 499,289 499,288 413,288 413,285 412,285 412,284 306,284 306,287 306,285 305,285 305,283 178,283 178,287 177,287 177,283 73,283 73,286 53,286 53,279 52,279 52,274 53,274 53,272 55,272 55,271 56,271 56,270 72,270 72,266 73,266 73,265"/>
+	<TextEquiv>
+	<Unicode>geſondert entfielen von unſeren 1800 ſelbſtändig Erwerben-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="54,297 54,298 122,298 122,299 123,299 123,305 122,305 122,308 121,308 121,320 121,319 120,319 120,315 109,315 109,314 56,314 56,313 54,313 54,312 52,312 52,298 53,298 53,297"/>
+	<TextEquiv>
+	<Unicode>den auf</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Wir können hier unmöglich auf die Einzelheiten der
+Berufsgliederung näher eingehen. Nach großen Gruppen
+geſondert entfielen von unſeren 1800 ſelbſtändig Erwerben-
+den auf</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="278,592 278,593 548,593 548,594 594,594 594,599 603,599 603,600 604,600 604,601 605,601 605,603 613,603 613,635 614,635 614,766 615,766 615,772 614,772 614,810 613,810 613,847 508,847 508,848 507,848 507,850 506,850 506,851 505,851 505,852 129,852 129,851 127,851 127,847 53,847 53,846 51,846 51,845 50,845 50,834 49,834 49,815 48,815 48,808 49,808 49,731 50,731 50,634 51,634 51,633 52,633 52,632 53,632 53,631 72,631 72,627 74,627 74,626 76,626 76,625 97,625 97,596 98,596 98,594 99,594 99,593 101,593 101,592"/>
+	<TextLine id="l0">
+	<Coords points="275,595 275,596 545,596 545,597 591,597 591,602 600,602 600,603 601,603 601,604 602,604 602,606 610,606 610,610 607,610 607,611 603,611 603,613 489,613 489,614 488,614 488,615 487,615 487,616 419,616 419,617 385,617 385,618 383,618 383,617 335,617 335,612 195,612 195,613 194,613 194,615 193,615 193,616 136,616 136,617 136,615 135,615 135,612 109,612 109,611 102,611 102,603 101,603 101,600 100,600 100,599 101,599 101,597 102,597 102,596 104,596 104,595"/>
+	<TextEquiv>
+	<Unicode>Dieſe Zahlen wollen nicht angeſehen ſein, wie die An-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="302,628 302,629 529,629 529,630 601,630 601,635 609,635 609,636 610,636 610,638 611,638 611,639 610,639 610,646 608,646 608,647 601,647 601,646 465,646 465,647 396,647 396,650 341,650 341,648 340,648 340,646 299,646 299,645 62,645 62,646 61,646 61,648 60,648 60,649 59,649 59,650 55,650 55,649 54,649 54,643 53,643 53,637 54,637 54,636 55,636 55,635 56,635 56,634 75,634 75,630 77,630 77,629 79,629 79,628"/>
+	<TextEquiv>
+	<Unicode>gaben einer modernen Berufsſtatiſtik. Sie ordnen die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="65,661 65,662 77,662 77,663 78,663 78,667 205,667 205,663 208,663 208,662 209,662 209,661 209,662 517,662 517,663 591,663 591,668 601,668 601,669 602,669 602,670 603,670 603,672 610,672 610,675 611,675 609,675 609,676 607,676 607,677 603,677 603,678 602,678 602,679 600,679 600,680 560,680 560,681 559,681 559,682 558,682 558,683 557,683 557,684 556,684 556,683 420,683 420,684 419,684 419,683 283,683 283,684 283,683 210,683 210,678 101,678 101,681 100,681 100,682 99,682 99,683 94,683 94,682 93,682 93,679 62,679 62,678 59,678 59,677 58,677 58,676 57,676 57,675 54,675 54,667 53,667 53,664 54,664 54,662 56,662 56,661"/>
+	<TextEquiv>
+	<Unicode>Bürger nur nach dem Hauptberufe ein, ohne zu be-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="85,694 85,695 190,695 190,694 359,694 359,695 594,695 594,697 608,697 608,698 609,698 609,700 611,700 611,709 610,709 610,711 608,711 608,712 575,712 575,713 574,713 574,715 573,715 573,716 471,716 471,712 415,712 415,711 306,711 306,716 135,716 135,717 135,716 111,716 111,715 90,715 90,711 56,711 56,710 54,710 54,702 53,702 53,701 54,701 54,700 64,700 64,696 83,696 83,695 84,695 84,694"/>
+	<TextEquiv>
+	<Unicode>rückſichtigen, daß die meiſten einen Teil ihres Unterhalts</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="226,727 226,731 227,731 227,732 229,732 229,733 333,733 333,729 335,729 335,728 578,728 578,729 579,729 579,734 609,734 609,735 610,735 610,744 611,744 611,745 591,745 591,748 590,748 590,749 589,749 589,750 528,750 528,745 463,745 463,744 339,744 339,746 338,746 338,747 337,747 337,748 336,748 336,749 266,749 266,748 265,748 265,744 88,744 88,746 87,746 87,747 86,747 86,748 85,748 85,749 84,749 84,744 53,744 53,735 52,735 52,734 59,734 59,733 81,733 81,730 82,730 82,729 83,729 83,728 224,728 224,727"/>
+	<TextEquiv>
+	<Unicode>noch aus einem oder gar mehreren andern Berufszweigen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="184,760 184,761 577,761 577,762 594,762 594,767 611,767 611,769 612,769 611,769 611,776 610,776 610,778 592,778 592,782 539,782 539,783 535,783 535,782 504,782 504,781 502,781 502,779 501,779 501,778 216,778 216,782 215,782 215,781 60,781 60,782 58,782 58,783 54,783 54,782 53,782 53,774 52,774 52,771 53,771 53,769 55,769 55,767 78,767 78,766 171,766 171,761 172,761 172,760"/>
+	<TextEquiv>
+	<Unicode>gewannen, die ſie nebenbei ausübten. Die Folge dieſer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="580,794 580,795 582,795 582,800 601,800 601,801 602,801 602,802 603,802 603,803 611,803 611,807 609,807 609,808 603,808 603,809 602,809 602,810 600,810 600,811 580,811 580,812 576,812 576,814 575,814 575,816 541,816 541,815 315,815 315,816 313,816 313,815 311,815 311,814 310,814 310,811 125,811 125,812 124,812 124,813 123,813 123,814 122,814 122,815 53,815 53,814 52,814 52,812 51,812 51,811 52,811 52,801 53,801 53,800 54,800 54,799 70,799 70,796 71,796 71,795 73,795 73,794"/>
+	<TextEquiv>
+	<Unicode>zahlreichen kombinierten Exiſtenzen iſt, daß manche Pro-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="404,827 404,828 501,828 501,829 583,829 583,830 584,830 584,833 603,833 603,834 604,834 604,835 605,835 605,842 610,842 610,844 505,844 505,845 504,845 504,847 503,847 503,848 502,848 502,849 482,849 482,845 354,845 354,846 353,846 353,847 352,847 352,848 281,848 281,849 280,849 280,848 135,848 135,849 132,849 132,848 130,848 130,844 56,844 56,843 54,843 54,842 53,842 53,831 52,831 52,828 53,828 53,827"/>
+	<TextEquiv>
+	<Unicode>duktionsgebiete nicht in ihrer wahren Bedeutung hervortreten.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Dieſe Zahlen wollen nicht angeſehen ſein, wie die An-
+gaben einer modernen Berufsſtatiſtik. Sie ordnen die
+Bürger nur nach dem Hauptberufe ein, ohne zu be-
+rückſichtigen, daß die meiſten einen Teil ihres Unterhalts
+noch aus einem oder gar mehreren andern Berufszweigen
+gewannen, die ſie nebenbei ausübten. Die Folge dieſer
+zahlreichen kombinierten Exiſtenzen iſt, daß manche Pro-
+duktionsgebiete nicht in ihrer wahren Bedeutung hervortreten.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="309,857 309,858 586,858 586,857 592,857 592,858 593,858 593,863 603,863 603,864 613,864 613,866 614,866 614,960 615,960 615,966 614,966 614,1070 613,1070 613,1078 612,1078 612,1079 590,1079 590,1084 127,1084 127,1083 80,1083 80,1079 54,1079 54,1078 53,1078 53,1077 51,1077 51,1067 50,1067 50,1011 49,1011 49,905 50,905 50,893 51,893 51,892 52,892 52,891 98,891 98,868 100,868 100,859 101,859 101,858 104,858 104,857"/>
+	<TextLine id="l14">
+	<Coords points="306,860 306,861 401,861 401,863 531,863 531,862 588,862 588,861 589,861 589,860 589,861 590,861 590,866 600,866 600,867 610,867 610,869 611,869 611,870 610,870 610,877 428,877 428,878 427,878 427,880 426,880 426,882 371,882 371,881 370,881 370,877 149,877 149,878 148,878 148,879 147,879 147,881 146,881 146,878 110,878 110,877 106,877 106,876 104,876 104,875 103,875 103,874 102,874 102,871 101,871 103,871 103,862 104,862 104,861 107,861 107,860"/>
+	<TextEquiv>
+	<Unicode>So haben wir unter den Urproduzenten nur 130 reine</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="534,894 534,895 605,895 605,908 610,908 610,910 462,910 462,911 432,911 432,913 431,913 431,914 430,914 430,915 429,915 429,911 309,911 309,912 308,912 308,914 307,914 307,915 227,915 227,916 227,915 225,915 225,911 220,911 220,910 78,910 78,911 57,911 57,910 56,910 56,909 55,909 55,908 52,908 53,908 53,896 54,896 54,895 55,895 55,894"/>
+	<TextEquiv>
+	<Unicode>Landwirte eingerechnet; in Wirklichkeit trieb im XIV.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="586,927 586,928 601,928 601,932 602,932 602,933 604,933 604,936 610,936 610,939 611,939 609,939 609,940 603,940 603,943 540,943 540,944 488,944 488,946 487,946 487,947 486,947 486,948 485,948 485,949 385,949 385,948 314,948 314,944 205,944 205,945 204,945 204,946 203,946 203,948 202,948 202,947 155,947 155,946 154,946 154,945 153,945 153,943 54,943 54,942 53,942 53,933 52,933 65,933 65,932 76,932 76,928 77,928 77,927"/>
+	<TextEquiv>
+	<Unicode>und XV. Jahrhundert noch faſt jeder Bürger Landwirt-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="196,959 196,960 610,960 610,962 611,962 611,963 612,963 611,963 611,975 610,975 610,976 609,976 609,977 199,977 199,979 198,979 198,980 197,980 197,981 196,981 196,976 90,976 90,981 69,981 69,980 55,980 55,979 54,979 54,967 53,967 53,966 52,966 53,966 53,965 54,965 54,960 69,960 69,959"/>
+	<TextEquiv>
+	<Unicode>ſchaft oder doch Garten- und Weinbau in der Stadtmark</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="317,993 317,994 484,994 484,993 590,993 590,994 603,994 603,999 609,999 609,1000 610,1000 610,1008 611,1008 610,1008 610,1009 592,1009 592,1011 591,1011 591,1013 590,1013 590,1014 530,1014 530,1010 418,1010 418,1013 417,1013 417,1014 415,1014 415,1015 393,1015 393,1014 391,1014 391,1010 247,1010 247,1014 239,1014 239,1010 134,1010 134,1015 133,1015 133,1010 55,1010 55,1009 54,1009 54,1008 52,1008 53,1008 53,1001 54,1001 54,1000 56,1000 56,999 63,999 63,993"/>
+	<TextEquiv>
+	<Unicode>oder auf den Dorffluren der Umgegend. Ebenſo nahm</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="250,1026 250,1027 392,1027 392,1026 392,1027 499,1027 499,1026 598,1026 598,1032 609,1032 609,1033 610,1033 610,1042 611,1042 610,1042 610,1043 534,1043 534,1044 533,1044 533,1047 502,1047 502,1043 396,1043 396,1044 395,1044 395,1046 394,1046 394,1047 393,1047 393,1043 291,1043 291,1048 291,1047 188,1047 188,1048 188,1047 95,1047 95,1043 57,1043 57,1042 55,1042 55,1041 53,1041 53,1027 54,1027 54,1026"/>
+	<TextEquiv>
+	<Unicode>der ſtädtiſche Dienſt weit mehr als 60 Perſonen in</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="63,1059 257,1059 257,1060 392,1060 392,1059 392,1060 539,1060 539,1059 566,1059 566,1060 589,1060 589,1061 599,1061 599,1065 610,1065 610,1066 611,1066 611,1067 610,1067 610,1075 609,1075 609,1076 587,1076 587,1081 566,1081 566,1080 370,1080 370,1081 270,1081 270,1076 142,1076 142,1077 141,1077 141,1079 140,1079 140,1080 130,1080 130,1081 130,1080 83,1080 83,1076 57,1076 57,1075 56,1075 56,1074 54,1074 54,1064 53,1064 53,1061 56,1061 56,1059 63,1059 63,1056"/>
+	<TextEquiv>
+	<Unicode>Anſpruch; aber vielleicht iſt die Zahl 60 noch zu hoch für</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>So haben wir unter den Urproduzenten nur 130 reine
+Landwirte eingerechnet; in Wirklichkeit trieb im XIV.
+und XV. Jahrhundert noch faſt jeder Bürger Landwirt-
+ſchaft oder doch Garten- und Weinbau in der Stadtmark
+oder auf den Dorffluren der Umgegend. Ebenſo nahm
+der ſtädtiſche Dienſt weit mehr als 60 Perſonen in
+Anſpruch; aber vielleicht iſt die Zahl 60 noch zu hoch für</Unicode></TextEquiv></TextRegion>
+	<TableRegion id="r127" rows="8" columns="3">
+	<Coords points="58,323 58,587 623,587 623,323"/>
+	<TextRegion id="r128" type="paragraph">
+	<Coords points="61,326 442,326 442,354 61,354"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r129" type="paragraph">
+	<Coords points="446,326 533,326 533,354 446,354"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l153">
+	<Coords points="484,337 484,341 519,341 519,342 520,342 520,348 524,348 524,349 525,349 525,350 524,350 524,351 482,351 482,354 456,354 456,350 452,350 452,341 451,341 451,340 452,340 452,338 453,338 453,337"/>
+	<TextEquiv>
+	<Unicode>Perſonen.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Perſonen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r130" type="paragraph">
+	<Coords points="537,326 621,326 621,354 537,354"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l154">
+	<Coords points="603,337 603,338 604,338 604,341 605,341 605,342 606,342 606,348 609,348 609,349 610,349 610,350 609,350 609,351 581,351 581,353 580,353 580,354 578,354 578,353 550,353 550,349 546,349 546,340 545,340 545,339 546,339 546,337"/>
+	<TextEquiv>
+	<Unicode>Prozent.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Prozent.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r131" type="paragraph">
+	<Coords points="61,358 442,358 442,387 61,387"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l152">
+	<Coords points="89,363 89,364 209,364 209,365 210,365 210,370 323,370 323,368 324,368 324,367 325,367 325,366 328,366 328,365 343,365 343,371 375,371 375,373 376,373 376,381 375,381 375,382 332,382 332,383 271,383 271,384 270,384 270,385 269,385 269,386 268,386 268,387 265,387 265,386 263,386 263,381 120,381 120,380 79,380 79,379 77,379 77,378 76,378 76,364 77,364 77,363"/>
+	<TextEquiv>
+	<Unicode>die Gewerbe im engeren Sinne</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>die Gewerbe im engeren Sinne</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r132" type="paragraph">
+	<Coords points="446,358 533,358 533,387 446,387"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l155">
+	<Coords points="506,367 506,368 508,368 508,370 509,370 509,373 510,373 510,375 509,375 509,378 508,378 508,380 507,380 507,381 482,381 482,382 471,382 471,381 466,381 466,368 469,368 469,367"/>
+	<TextEquiv>
+	<Unicode>1050</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>1050</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r133" type="paragraph">
+	<Coords points="537,358 621,358 621,387 537,387"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l156">
+	<Coords points="595,367 595,368 597,368 597,369 598,369 598,377 599,377 598,377 598,379 597,379 597,381 595,381 595,382 585,382 585,383 584,383 584,385 582,385 582,382 563,382 563,381 560,381 560,379 559,379 559,378 560,378 560,367"/>
+	<TextEquiv>
+	<Unicode>58,3</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>58,3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r134" type="paragraph">
+	<Coords points="61,391 442,391 442,420 61,420"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l157">
+	<Coords points="173,396 173,397 211,397 211,398 212,398 212,403 234,403 234,404 235,404 235,413 234,413 234,414 142,414 142,418 142,417 141,417 141,414 126,414 126,413 79,413 79,412 77,412 77,411 76,411 76,398 77,398 77,396"/>
+	<TextEquiv>
+	<Unicode>die Urproduktion</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>die Urproduktion</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r135" type="paragraph">
+	<Coords points="446,391 533,391 533,420 446,420"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l158">
+	<Coords points="507,400 507,401 508,401 508,402 509,402 509,403 510,403 510,405 511,405 511,407 510,407 510,411 509,411 509,413 508,413 508,414 506,414 506,415 481,415 481,414 480,414 480,413 478,413 478,411 479,411 479,401 483,401 483,400"/>
+	<TextEquiv>
+	<Unicode>330</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>330</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r136" type="paragraph">
+	<Coords points="537,391 621,391 621,420 537,420"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l159">
+	<Coords points="596,400 596,401 597,401 597,402 598,402 598,409 599,409 599,412 598,412 598,413 597,413 597,414 595,414 595,415 586,415 586,416 585,416 585,417 584,417 584,418 583,418 583,415 562,415 562,414 561,414 561,401 564,401 564,400"/>
+	<TextEquiv>
+	<Unicode>18,3</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>18,3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r137" type="paragraph">
+	<Coords points="61,424 442,424 442,453 61,453"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l160">
+	<Coords points="119,429 119,430 296,430 296,431 408,431 408,432 411,432 411,433 415,433 415,437 418,437 418,447 416,447 416,448 408,448 408,453 408,452 321,452 321,448 218,448 218,450 217,450 217,451 216,451 216,450 86,450 86,451 84,451 84,452 83,452 83,451 81,451 81,450 80,450 80,446 77,446 77,445 76,445 76,442 78,442 78,434 79,434 79,432 80,432 80,431 81,431 81,430 118,430 118,429"/>
+	<TextEquiv>
+	<Unicode>Handel, Verkehr und Gaſtwirtſchaft</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Handel, Verkehr und Gaſtwirtſchaft</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r138" type="paragraph">
+	<Coords points="446,424 533,424 533,453 446,453"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l161">
+	<Coords points="506,433 506,434 508,434 508,436 509,436 509,438 510,438 510,443 509,443 509,445 508,445 508,446 507,446 507,447 492,447 492,448 492,447 477,447 477,435 478,435 478,434 479,434 479,433"/>
+	<TextEquiv>
+	<Unicode>230</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>230</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r139" type="paragraph">
+	<Coords points="537,424 621,424 621,453 537,453"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l162">
+	<Coords points="595,433 595,434 597,434 597,435 598,435 598,446 599,446 599,448 598,448 598,450 597,450 597,451 595,451 595,452 562,452 562,451 561,451 562,451 562,434 564,434 564,433"/>
+	<TextEquiv>
+	<Unicode>12,8</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>12,8</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r140" type="paragraph">
+	<Coords points="61,457 442,457 442,486 61,486"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l164">
+	<Coords points="166,462 166,463 325,463 325,464 335,464 335,466 350,466 350,470 352,470 352,479 351,479 351,480 342,480 342,481 342,480 235,480 235,481 234,481 234,484 234,480 216,480 216,479 109,479 109,480 108,480 108,482 107,482 107,483 106,483 106,484 105,484 105,480 83,480 83,479 76,479 76,476 77,476 77,464 78,464 78,463 80,463 80,462"/>
+	<TextEquiv>
+	<Unicode>Lohnarbeit unbeſtimmter Art</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Lohnarbeit unbeſtimmter Art</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r141" type="paragraph">
+	<Coords points="446,457 533,457 533,486 446,486"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l165">
+	<Coords points="506,466 506,467 507,467 507,468 508,468 508,469 509,469 509,472 510,472 510,475 509,475 509,478 508,478 508,479 507,479 507,480 505,480 505,481 504,481 504,480 491,480 491,479 490,479 490,478 489,478 489,475 488,475 488,473 489,473 489,470 490,470 490,468 491,468 491,467 493,467 493,466"/>
+	<TextEquiv>
+	<Unicode>60</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>60</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r142" type="paragraph">
+	<Coords points="537,457 621,457 621,486 537,486"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l166">
+	<Coords points="595,466 595,467 597,467 597,469 598,469 598,479 597,479 597,480 595,480 595,481 585,481 585,482 584,482 584,483 583,483 583,484 583,481 574,481 574,480 573,480 573,479 572,479 572,478 571,478 572,478 572,468 573,468 573,467 575,467 575,466"/>
+	<TextEquiv>
+	<Unicode>3,3</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>3,3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r143" type="paragraph">
+	<Coords points="61,490 442,490 442,519 61,519"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l167">
+	<Coords points="228,496 228,497 257,497 257,498 258,498 258,499 261,499 261,503 263,503 263,512 262,512 262,513 255,513 255,517 113,517 113,518 113,517 106,517 106,513 83,513 83,512 81,512 81,511 77,511 77,507 78,507 78,499 79,499 79,497 80,497 80,496"/>
+	<TextEquiv>
+	<Unicode>Oeffentlichen Dienſt</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Oeffentlichen Dienſt</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r144" type="paragraph">
+	<Coords points="446,490 533,490 533,519 446,519"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l168">
+	<Coords points="506,499 506,500 507,500 507,501 508,501 508,502 509,502 509,503 510,503 510,509 509,509 509,511 508,511 508,512 507,512 507,513 506,513 506,514 492,514 492,513 491,513 491,512 490,512 490,510 489,510 489,504 490,504 490,501 491,501 491,500 493,500 493,499"/>
+	<TextEquiv>
+	<Unicode>60</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>60</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r145" type="paragraph">
+	<Coords points="537,490 621,490 621,519 537,519"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l169">
+	<Coords points="595,499 595,500 597,500 597,501 598,501 598,509 599,509 599,510 598,510 598,512 597,512 597,513 595,513 595,514 585,514 585,516 584,516 584,517 583,517 583,514 574,514 574,513 573,513 573,512 572,512 572,501 573,501 573,500 574,500 574,499"/>
+	<TextEquiv>
+	<Unicode>3,3</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>3,3</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r146" type="paragraph">
+	<Coords points="61,523 442,523 442,552 61,552"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l170">
+	<Coords points="83,528 83,529 176,529 176,530 216,530 216,531 251,531 251,532 252,532 252,535 271,535 271,536 273,536 273,545 274,545 274,546 214,546 214,549 213,549 213,551 213,546 82,546 82,545 76,545 76,543 77,543 77,532 78,532 78,530 79,530 79,529 81,529 81,528"/>
+	<TextEquiv>
+	<Unicode>Liberale Berufsarten</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Liberale Berufsarten</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r147" type="paragraph">
+	<Coords points="446,523 533,523 533,552 446,552"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l171">
+	<Coords points="506,532 506,533 507,533 507,534 508,534 508,535 509,535 509,538 510,538 510,541 509,541 509,544 508,544 508,545 507,545 507,546 506,546 506,547 491,547 491,546 489,546 489,545 488,545 488,544 489,544 489,534 490,534 490,533 491,533 491,532"/>
+	<TextEquiv>
+	<Unicode>30</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>30</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r148" type="paragraph">
+	<Coords points="537,523 621,523 621,552 537,552"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l172">
+	<Coords points="577,533 598,533 598,534 597,534 597,535 596,535 596,539 595,539 595,542 594,542 594,547 573,547 573,533 577,533 577,532"/>
+	<TextEquiv>
+	<Unicode>1,7</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>1,7</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r149" type="paragraph">
+	<Coords points="61,556 442,556 442,585 61,585"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l174">
+	<Coords points="152,562 152,566 154,566 154,567 156,567 156,568 186,568 186,569 187,569 187,577 186,577 186,578 185,578 185,579 131,579 131,581 130,581 130,582 129,582 129,583 114,583 114,580 85,580 85,579 83,579 83,578 82,578 82,577 77,577 77,566 76,566 76,565 77,565 77,563 79,563 79,562"/>
+	<TextEquiv>
+	<Unicode>Verſchiedene</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Verſchiedene</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r150" type="paragraph">
+	<Coords points="446,556 533,556 533,585 446,585"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l175">
+	<Coords points="506,565 506,566 508,566 508,567 509,567 509,568 510,568 510,571 511,571 511,575 510,575 510,577 509,577 509,578 508,578 508,579 507,579 507,580 492,580 492,576 489,576 489,574 490,574 490,573 491,573 491,571 492,571 492,570 494,570 494,566 495,566 495,565"/>
+	<TextEquiv>
+	<Unicode>40</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>40</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r151" type="paragraph">
+	<Coords points="537,556 621,556 621,585 537,585"/>
+	<Roles>
+	<TableCellRole rowIndex="0" columnIndex="0"/></Roles>
+	<TextLine id="l176">
+	<Coords points="595,566 597,566 597,567 598,567 598,574 599,574 599,577 598,577 598,579 596,579 596,580 586,580 586,581 585,581 585,582 584,582 584,583 583,583 583,580 572,580 572,568 573,568 573,567 574,567 574,566 595,566 595,565"/>
+	<TextEquiv>
+	<Unicode>2,3</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>2,3</Unicode></TextEquiv></TextRegion></TableRegion></Page></PcGts>
