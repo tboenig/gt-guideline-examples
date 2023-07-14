@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd">
+  <mets:metsHdr CREATEDATE="2023-07-14T16:14:36.975766">
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="CREATOR">
+      <mets:name>ocrd/core v2.52.0</mets:name>
+    </mets:agent>
+  </mets:metsHdr>
+  <mets:dmdSec ID="DMDLOG_0001">
+    <mets:mdWrap MDTYPE="MODS">
+      <mets:xmlData>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+                </mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="AMD">
+    </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp USE="OCR-D-IMG">
+      <mets:file ID="OCR-D-IMG_buecher_volkswirtschaft_1893_0257_800px" MIMETYPE="image/jpeg">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="buecher_volkswirtschaft_1893_0257_800px.jpg"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-PAGE">
+      <mets:file ID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px.IMG-BIN" MIMETYPE="image/tiff">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="buecher_volkswirtschaft_1893_0257_800px_B.tif"/>
+      </mets:file>
+      <mets:file ID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="buecher_volkswirtschaft_1893_0257_800px.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-PAGE_sparse_text">
+      <mets:file ID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px_sparse_text" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="buecher_volkswirtschaft_1893_0257_800px_sparse_text.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-PAGE_sparse_text_variant1">
+      <mets:file ID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px_sparse_text_variant1" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="buecher_volkswirtschaft_1893_0257_800px_sparse_text_variant1.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-PAGE_sparse_text_variant2">
+      <mets:file ID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px_sparse_text_variant2" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="buecher_volkswirtschaft_1893_0257_800px_sparse_text_variant2.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-PAGE_table_detection">
+      <mets:file ID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px_table_detection" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="buecher_volkswirtschaft_1893_0257_800px_table_detection.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-PAGE_table_structure">
+      <mets:file ID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px_table_structure" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="buecher_volkswirtschaft_1893_0257_800px_table_structure.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-GT-PAGE_full_table_structure">
+      <mets:file ID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px_full_table_structure" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="buecher_volkswirtschaft_1893_0257_800px_full_table_structure.xml"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div TYPE="physSequence">
+      <mets:div TYPE="page" ID="buecher_volkswirtschaft_1893_0257_800px">
+        <mets:fptr FILEID="OCR-D-IMG_buecher_volkswirtschaft_1893_0257_800px"/>
+        <mets:fptr FILEID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px.IMG-BIN"/>
+        <mets:fptr FILEID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px"/>
+        <mets:fptr FILEID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px_sparse_text"/>
+        <mets:fptr FILEID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px_sparse_text_variant1"/>
+        <mets:fptr FILEID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px_sparse_text_variant2"/>
+        <mets:fptr FILEID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px_table_detection"/>
+        <mets:fptr FILEID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px_table_structure"/>
+        <mets:fptr FILEID="OCR-D-GT-PAGE_buecher_volkswirtschaft_1893_0257_800px_full_table_structure"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+</mets:mets>
